@@ -54,9 +54,16 @@ export default function AdminIndex() {
           <div className="space-y-3">
             {recipes.map(r => (
               <div key={r.id} className="p-4 bg-white rounded shadow flex justify-between items-center">
-                <div>
-                  <div className="font-semibold">{r.name}</div>
-                  <div className="text-sm text-gray-500">{r.cuisine} • {r.ingredients?.length || 0} ingredients</div>
+                <div className="flex items-center gap-4">
+                  {r.image_url ? (
+                    <img src={r.image_url} alt={r.name} className="w-20 h-14 object-cover rounded border" onError={(e)=>{e.target.style.display='none'}} />
+                  ) : (
+                    <div className="w-20 h-14 bg-gray-100 rounded border flex items-center justify-center text-xs text-gray-400">No image</div>
+                  )}
+                  <div>
+                    <div className="font-semibold">{r.name}</div>
+                    <div className="text-sm text-gray-500">{r.cuisine} • {r.ingredients?.length || 0} ingredients</div>
+                  </div>
                 </div>
                 <div className="flex gap-2">
                   <Link href={`/api/recipes/${r.id}`} className="px-3 py-1 bg-gray-100 rounded">View JSON</Link>

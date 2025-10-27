@@ -52,6 +52,7 @@ export default function EditRecipe() {
       const body = {
         name: recipe.name,
         cuisine: recipe.cuisine,
+          image_url: recipe.image_url || null,
         servings: recipe.servings,
         ingredients: recipe.ingredients,
         steps: recipe.steps,
@@ -103,6 +104,16 @@ export default function EditRecipe() {
             <div className="mt-2">
               <button type="button" onClick={addIngredient} className="px-3 py-1 bg-green-600 text-white rounded">Add Ingredient</button>
             </div>
+          </div>
+
+          <div className="mb-3">
+            <label className="block text-sm text-gray-600">Image URL</label>
+            <input className="w-full p-2 border rounded" value={recipe.image_url || ''} onChange={e => setRecipe(r => ({ ...r, image_url: e.target.value }))} placeholder="https://..." />
+            {recipe.image_url ? (
+              <div className="mt-2">
+                <img src={recipe.image_url} alt={recipe.name || 'preview'} className="w-48 h-32 object-cover rounded border" onError={(e)=>{e.target.style.display='none'}} />
+              </div>
+            ) : null}
           </div>
 
           <div className="mb-3">

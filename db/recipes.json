@@ -226,7 +226,7 @@
     "image_url": "https://kimchimari.com/wp-content/uploads/2020/03/Dalgona-Coffee-with-candy.jpg",
     "ingredients": [
       {
-        "name": "instant coffee",
+        "name": "coffee powder",
         "amount": 2,
         "unit": "tsp",
         "note": null
@@ -260,7 +260,8 @@
       "coffee",
       "3-ingredient"
     ],
-    "created_at": "2025-10-28T16:14:15.720Z"
+    "created_at": "2025-10-28T16:14:15.720Z",
+    "updated_at": "2025-10-28T16:27:53.431Z"
   },
   {
     "id": "14599f04-6cfb-420e-b082-5d3e414262cc",

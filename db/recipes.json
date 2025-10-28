@@ -1,5 +1,69 @@
 [
   {
+    "id": "df46dd99-aeaa-46bd-a8ef-093e37f05cda",
+    "name": "Thecha",
+    "cuisine": "Maharashtrian",
+    "image_url": "https://www.whiskaffair.com/wp-content/uploads/2020/10/Thecha-2-3.jpg",
+    "ingredients": [
+      {
+        "name": "green chilies",
+        "amount": 10,
+        "unit": "pcs",
+        "note": "adjust as per spice preference"
+      },
+      {
+        "name": "garlic cloves",
+        "amount": 6,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "peanuts",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "roasted and skin removed (optional)"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "preferably groundnut oil"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "optional, for flavor"
+      }
+    ],
+    "steps": [
+      "1) Heat 1 tbsp oil in a small pan on medium flame. Add cumin seeds (if using) and let them splutter.",
+      "2) Add green chilies and garlic cloves. Sauté for 3–4 minutes until the chilies blister and garlic turns slightly golden.",
+      "3) Remove from heat and allow to cool slightly.",
+      "4) In a mortar and pestle or grinder, crush the sautéed mixture coarsely along with roasted peanuts and salt. Do not make it too smooth — a coarse texture gives authentic taste.",
+      "5) Taste and adjust salt if needed. Optionally drizzle a few drops of raw groundnut oil for added aroma.",
+      "6) Serve immediately with bhakri, jowar roti, or simple dal-chawal. It can be stored in the refrigerator for up to 3 days."
+    ],
+    "calories": 90,
+    "servings": 4,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 5,
+    "tags": [
+      "spicy",
+      "vegan",
+      "traditional",
+      "chutney",
+      "maharashtrian"
+    ],
+    "created_at": "2025-10-28T14:55:59.838Z"
+  },
+  {
     "id": "8ee2085f-0dbd-4b7d-be78-372d592327d1",
     "name": "Bharli Vangi",
     "cuisine": "Maharashtrian",

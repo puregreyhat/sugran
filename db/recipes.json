@@ -1,5 +1,48 @@
 [
   {
+    "id": "76da75dd-d800-4825-b408-62098940de5c",
+    "name": "Dalgona Coffee",
+    "cuisine": "Korean",
+    "image_url": "https://kimchimari.com/wp-content/uploads/2020/03/Dalgona-Coffee-with-candy.jpg",
+    "ingredients": [
+      {
+        "name": "instant coffee",
+        "amount": 2,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "sugar",
+        "amount": 2,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "milk",
+        "amount": 1,
+        "unit": "cup",
+        "note": "cold or hot"
+      }
+    ],
+    "steps": [
+      "1) In a bowl, combine instant coffee, sugar, and 2 tsp of hot water.",
+      "2) Whisk or beat the mixture until it becomes thick, frothy, and light brown in color.",
+      "3) Pour milk into a glass and spoon the whipped coffee mixture on top.",
+      "4) Serve chilled or hot. Stir before drinking for best taste."
+    ],
+    "calories": 150,
+    "servings": 1,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": null,
+    "tags": [
+      "beverage",
+      "viral",
+      "coffee",
+      "3-ingredient"
+    ],
+    "created_at": "2025-10-28T16:14:15.720Z"
+  },
+  {
     "id": "14599f04-6cfb-420e-b082-5d3e414262cc",
     "name": "Garlic Toast",
     "cuisine": "Western",

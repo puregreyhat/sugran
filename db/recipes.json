@@ -1,5 +1,48 @@
 [
   {
+    "id": "26fc735a-f38c-468e-9dba-09a4869556c8",
+    "name": "Chocolate Mug Cake",
+    "cuisine": "Global",
+    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/chocolate-mug-cake.jpg",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "cocoa powder",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "condensed milk",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) In a microwave-safe mug, mix flour, cocoa powder, and condensed milk until smooth.",
+      "2) Add 1–2 tsp of water or milk if needed to adjust consistency.",
+      "3) Microwave on high for 1 minute or until the cake rises and sets.",
+      "4) Cool slightly and enjoy warm straight from the mug."
+    ],
+    "calories": 280,
+    "servings": 1,
+    "prep_time_minutes": 2,
+    "cook_time_minutes": 1,
+    "tags": [
+      "dessert",
+      "quick",
+      "microwave",
+      "3-ingredient"
+    ],
+    "created_at": "2025-10-28T16:15:27.531Z"
+  },
+  {
     "id": "d8dcd443-3e46-4df7-b8e3-7b6d9c1248b7",
     "name": "Poha Chivda",
     "cuisine": "Indian",

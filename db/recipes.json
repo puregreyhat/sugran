@@ -1,5 +1,131 @@
 [
   {
+    "id": "926b465c-e361-4ebf-b13e-5f7573ec757c",
+    "name": "Masala Dosa",
+    "cuisine": "South Indian",
+    "image_url": " https://www.sailusfood.com/wp-content/uploads/2013/06/mysore-masala-dosa.jpg",
+    "ingredients": [
+      {
+        "name": "idli rice",
+        "amount": 2,
+        "unit": "cups",
+        "note": "or parboiled rice"
+      },
+      {
+        "name": "urad dal",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "whole skinned black gram"
+      },
+      {
+        "name": "chana dal",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "optional for crispiness"
+      },
+      {
+        "name": "fenugreek seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for roasting dosas"
+      },
+      {
+        "name": "potatoes",
+        "amount": 3,
+        "unit": "pcs",
+        "note": "boiled and mashed"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "sliced thinly"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "chopped"
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "grated"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "curry leaves",
+        "amount": 8,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "for masala tempering"
+      },
+      {
+        "name": "water",
+        "amount": 1,
+        "unit": "cup",
+        "note": "for batter and masala consistency"
+      }
+    ],
+    "steps": [
+      "1) Wash and soak 2 cups rice, 0.5 cup urad dal, 2 tbsp chana dal, and 0.5 tsp fenugreek seeds separately for 5–6 hours.",
+      "2) Grind the urad dal into a fluffy batter with little water, then grind the rice and chana dal mixture coarsely.",
+      "3) Combine both batters, mix well, and let it ferment overnight or 8–10 hours until doubled in volume.",
+      "4) Add salt to the fermented batter and mix gently.",
+      "5) To prepare the potato masala, heat 1 tbsp oil in a pan, add mustard seeds, and let them splutter.",
+      "6) Add curry leaves, green chilies, and grated ginger. Sauté for a few seconds.",
+      "7) Add sliced onions and cook until translucent.",
+      "8) Add turmeric powder and the boiled, mashed potatoes. Mix well and add little water if needed.",
+      "9) Cook for 3–4 minutes, add salt to taste, and turn off the heat. The masala is ready.",
+      "10) Heat a non-stick or cast-iron tawa. Pour a ladleful of batter in the center and spread it thin in a circular motion.",
+      "11) Drizzle some oil or ghee around the edges and cook until golden and crisp.",
+      "12) Place a spoonful of potato masala in the center, fold the dosa, and serve hot.",
+      "13) Serve with coconut chutney and sambar."
+    ],
+    "calories": 350,
+    "servings": 3,
+    "prep_time_minutes": 480,
+    "cook_time_minutes": 25,
+    "tags": [
+      "breakfast",
+      "south-indian",
+      "vegetarian",
+      "fermented",
+      "street-food",
+      "popular"
+    ],
+    "created_at": "2025-10-28T06:44:06.208Z"
+  },
+  {
     "id": "56fff5c0-7fd8-4f8a-8309-58d28ad634e4",
     "name": "Tomato Saar",
     "cuisine": "Maharashtrian",

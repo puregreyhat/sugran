@@ -1,5 +1,48 @@
 [
   {
+    "id": "fcc94565-b0bf-4e2f-82cf-9264024d234d",
+    "name": "Butter Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://www.munatycooking.com/wp-content/uploads/2024/01/Paratha-5.jpg",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "butter or ghee",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "pinch",
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "1) In a bowl, mix wheat flour, salt, and water as needed to form a soft dough. Rest for 10 minutes.",
+      "2) Roll the dough into a round shape using dry flour.",
+      "3) Cook on a hot tawa, apply butter or ghee on both sides, and roast until golden spots appear.",
+      "4) Serve hot with pickle, curd, or chai."
+    ],
+    "calories": 180,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "tags": [
+      "flatbread",
+      "quick",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "created_at": "2025-10-28T15:36:47.523Z"
+  },
+  {
     "id": "a5105481-a1c5-47a9-af62-9076dc53611c",
     "name": "Banana Pancake",
     "cuisine": "Global",

@@ -1,5 +1,101 @@
 [
   {
+    "id": "765eff29-9e8f-4f0c-870d-33a174797c9e",
+    "name": "Puran Poli",
+    "cuisine": "Maharashtrian",
+    "image_url": "https://foodtrails25.com/wp-content/uploads/2023/09/Puran-Poli-Recipe.jpg",
+    "ingredients": [
+      {
+        "name": "chana dal",
+        "amount": 1,
+        "unit": "cup",
+        "note": "soaked for 30 minutes"
+      },
+      {
+        "name": "jaggery",
+        "amount": 1,
+        "unit": "cup",
+        "note": "grated"
+      },
+      {
+        "name": "cardamom powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "nutmeg powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "optional"
+      },
+      {
+        "name": "whole wheat flour",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "all-purpose flour",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "pinch",
+        "note": null
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "as required to knead the dough"
+      },
+      {
+        "name": "ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for roasting"
+      }
+    ],
+    "steps": [
+      "1) Wash and soak chana dal for 30 minutes. Pressure cook with 2 cups of water until soft but not mushy (about 3–4 whistles). Drain excess water.",
+      "2) Transfer the cooked dal to a pan. Add grated jaggery and cook over medium heat, stirring continuously, until the mixture thickens and leaves the sides of the pan. This is the puran (sweet filling).",
+      "3) Add cardamom and nutmeg powder. Mix well and let it cool completely. Mash or blend lightly to get a smooth filling.",
+      "4) In a mixing bowl, combine whole wheat flour, maida, turmeric, salt, and 2 tbsp oil/ghee. Gradually add water to knead a soft, pliable dough. Cover and rest for 30 minutes.",
+      "5) Divide both dough and puran into equal lemon-sized portions.",
+      "6) Roll out one dough ball slightly, place a portion of puran in the center, and seal the edges to enclose the filling.",
+      "7) Gently roll it into a flat circle (6–7 inches) dusting with dry flour as needed.",
+      "8) Heat a tawa (griddle). Roast the poli on medium flame until golden brown spots appear on both sides, applying ghee while roasting.",
+      "9) Serve warm with a dollop of ghee or milk on the side. Puran Poli tastes best when slightly warm."
+    ],
+    "calories": 320,
+    "servings": 6,
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 30,
+    "tags": [
+      "festival",
+      "sweet",
+      "traditional",
+      "vegetarian"
+    ],
+    "created_at": "2025-10-28T14:52:51.861Z"
+  },
+  {
     "id": "b9e7e8d2-3f8e-4e2f-819d-51d5b190d17e",
     "name": "Appam with Vegetable Stew",
     "cuisine": "South Indian",

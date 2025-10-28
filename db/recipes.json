@@ -3,7 +3,7 @@
     "id": "d8a50ccd-b3b2-4bdd-b790-7bc414388e78",
     "name": "Pav Bhaji",
     "cuisine": "Maharashtrian",
-    "image_url": null,
+    "image_url": "https://i0.wp.com/www.lifeisforfood.com/wp-content/uploads/2021/12/Pav-Bhaji.jpg",
     "ingredients": [
       {
         "name": "potato",
@@ -170,6 +170,7 @@
       "comfort-food",
       "homemade"
     ],
-    "created_at": "2025-10-28T04:16:25.883Z"
+    "created_at": "2025-10-28T04:16:25.883Z",
+    "updated_at": "2025-10-28T04:16:57.529Z"
   }
 ]

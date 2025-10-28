@@ -1,5 +1,49 @@
 [
   {
+    "id": "c2cfe6ed-a967-4347-94f2-2595428750b2",
+    "name": "Cheese Quesadilla",
+    "cuisine": "Mexican",
+    "image_url": "https://www.simplyrecipes.com/thmb/Fx0xjzJgQhwo3T8VZEmv8A9Z2H0=/1777x1333/smart/filters:no_upscale()/Simply-Recipes-Cheese-Quesadilla-LEAD-2-5d40e3d8dc474c129e51de0ff056505d.jpg",
+    "ingredients": [
+      {
+        "name": "flour tortillas",
+        "amount": 2,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "shredded cheese",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "cheddar or mozzarella"
+      },
+      {
+        "name": "butter",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Heat a pan and lightly butter one side of each tortilla.",
+      "2) Place one tortilla, buttered side down, on the pan and sprinkle cheese evenly over it.",
+      "3) Cover with the second tortilla, buttered side up.",
+      "4) Cook on medium heat until golden brown and cheese melts, flipping once.",
+      "5) Slice into wedges and serve warm."
+    ],
+    "calories": 320,
+    "servings": 1,
+    "prep_time_minutes": 3,
+    "cook_time_minutes": 5,
+    "tags": [
+      "snack",
+      "cheese",
+      "quick",
+      "3-ingredient"
+    ],
+    "created_at": "2025-10-28T16:18:46.840Z"
+  },
+  {
     "id": "a151ddf9-a12e-4730-88f5-f86946ef6d51",
     "name": "Mango Lassi",
     "cuisine": "Indian",

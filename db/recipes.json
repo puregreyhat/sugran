@@ -1,5 +1,48 @@
 [
   {
+    "id": "14599f04-6cfb-420e-b082-5d3e414262cc",
+    "name": "Garlic Toast",
+    "cuisine": "Western",
+    "image_url": "https://www.rachelcooks.com/wp-content/uploads/2023/10/Texas-Toast012-web-square.jpg",
+    "ingredients": [
+      {
+        "name": "bread slices",
+        "amount": 2,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "butter",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "softened"
+      },
+      {
+        "name": "garlic",
+        "amount": 2,
+        "unit": "cloves",
+        "note": "finely chopped or crushed"
+      }
+    ],
+    "steps": [
+      "1) In a small bowl, mix softened butter with crushed garlic.",
+      "2) Spread the mixture evenly on both sides of the bread slices.",
+      "3) Toast in a pan or oven until golden and crisp.",
+      "4) Serve hot as a snack or side dish."
+    ],
+    "calories": 220,
+    "servings": 2,
+    "prep_time_minutes": 2,
+    "cook_time_minutes": 5,
+    "tags": [
+      "snack",
+      "quick",
+      "appetizer",
+      "2-ingredient"
+    ],
+    "created_at": "2025-10-28T15:40:33.866Z"
+  },
+  {
     "id": "47645a6b-d534-4d90-bc92-2f7700d48837",
     "name": "Cacio e Pepe",
     "cuisine": "Italian",

@@ -1,45 +1,5 @@
 [
   {
-    "id": "m-3",
-    "name": "Thalipeeth",
-    "cuisine": "Maharashtrian",
-    "image_url": null,
-    "ingredients": [
-      {
-        "name": "bhajani flour",
-        "amount": 2,
-        "unit": "cups",
-        "note": null
-      },
-      {
-        "name": "onion",
-        "amount": 1,
-        "unit": "pcs",
-        "note": null
-      },
-      {
-        "name": "chili",
-        "amount": 1,
-        "unit": "pcs",
-        "note": null
-      }
-    ],
-    "steps": [
-      "Mix flour with spices and water",
-      "Roll and cook on tava"
-    ],
-    "calories": 250,
-    "servings": 2,
-    "prep_time_minutes": 10,
-    "cook_time_minutes": 15,
-    "tags": [
-      "breakfast",
-      "savory"
-    ],
-    "created_at": "2025-10-26T00:00:00.000Z",
-    "updated_at": "2025-10-28T03:50:15.638Z"
-  },
-  {
     "id": "m-4",
     "name": "Vada Pav",
     "cuisine": "Maharashtrian",

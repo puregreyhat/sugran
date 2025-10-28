@@ -1,5 +1,73 @@
 [
   {
+    "id": "a2cadede-1e87-4e21-8551-0dc1feef42d3",
+    "name": "Idli",
+    "cuisine": "South Indian",
+    "image_url": null,
+    "ingredients": [
+      {
+        "name": "idli rice",
+        "amount": 2,
+        "unit": "cups",
+        "note": "can use parboiled rice"
+      },
+      {
+        "name": "urad dal",
+        "amount": 1,
+        "unit": "cup",
+        "note": "whole, skinless"
+      },
+      {
+        "name": "fenugreek seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "optional, helps fermentation"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "water",
+        "amount": null,
+        "unit": "as needed",
+        "note": "for soaking and grinding"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "for greasing idli moulds"
+      }
+    ],
+    "steps": [
+      "1) Rinse the idli rice and urad dal separately 2–3 times. Soak rice with fenugreek seeds in enough water for 6 hours. Soak urad dal separately for 4 hours.",
+      "2) Drain the soaked urad dal and grind it with a little water until smooth, light, and fluffy. Transfer to a large bowl.",
+      "3) Drain the rice and grind it with just enough water to make a slightly coarse batter. Combine both batters in a large vessel and mix well with your hand.",
+      "4) Cover and ferment the batter in a warm place for 8–12 hours, or until it doubles in volume and turns slightly airy.",
+      "5) Once fermented, gently stir in salt. Do not overmix or deflate the batter.",
+      "6) Grease idli moulds with a little oil and pour the batter into each mould, filling about ¾ of the way.",
+      "7) Steam in an idli steamer or pressure cooker (without the whistle) for 10–12 minutes on medium heat until a toothpick inserted comes out clean.",
+      "8) Remove the moulds and let them rest for 2–3 minutes. Then unmould the idlis using a wet spoon.",
+      "9) Serve hot with coconut chutney, sambar, or milagai podi."
+    ],
+    "calories": 200,
+    "servings": 4,
+    "prep_time_minutes": 720,
+    "cook_time_minutes": 15,
+    "tags": [
+      "breakfast",
+      "south-indian",
+      "vegan",
+      "gluten-free",
+      "fermented",
+      "steamed"
+    ],
+    "created_at": "2025-10-28T04:08:00.684Z"
+  },
+  {
     "id": "m-4",
     "name": "Vada Pav",
     "cuisine": "Maharashtrian",

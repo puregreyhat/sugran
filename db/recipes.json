@@ -1,42 +1,5 @@
 [
   {
-    "id": "m-2",
-    "name": "Misal Pav",
-    "cuisine": "Maharashtrian",
-    "image_url": null,
-    "ingredients": [
-      {
-        "name": "sprouts",
-        "quantity": 2,
-        "unit": "cups"
-      },
-      {
-        "name": "onion",
-        "quantity": 1,
-        "unit": "pcs"
-      },
-      {
-        "name": "tamarind",
-        "quantity": 1,
-        "unit": "tbsp"
-      }
-    ],
-    "steps": [
-      "Cook sprouts with masala",
-      "Prepare spicy misal curry",
-      "Serve with pav, garnished with farsan and onion"
-    ],
-    "calories": 280,
-    "servings": 3,
-    "prep_time_minutes": 10,
-    "cook_time_minutes": 25,
-    "tags": [
-      "breakfast",
-      "spicy"
-    ],
-    "created_at": "2025-10-26T00:00:00.000Z"
-  },
-  {
     "id": "m-3",
     "name": "Thalipeeth",
     "cuisine": "Maharashtrian",

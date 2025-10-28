@@ -70,9 +70,12 @@ export default function AdminIndex() {
     setBusy(true);
     try {
       const res = await fetch('/api/recipes/bulk', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ ids }) });
-      const j = await res.json();
+      let j = null;
+      try { j = await res.json(); } catch(e){ j = null; }
       if (!res.ok) {
-        alert('Bulk delete failed: ' + (j.error || res.statusText));
+        console.error('Bulk delete failed:', res.status, j);
+        const msg = (j && j.error) ? j.error : `status ${res.status}`;
+        alert('Bulk delete failed: ' + msg);
       } else {
         setRecipes(r => r.filter(x => !ids.includes(x.id)));
         setSelected(new Set());
@@ -110,12 +113,12 @@ export default function AdminIndex() {
           <div className="grid grid-cols-1 gap-4">
             {recipes.map(r => (
               <div key={r.id} className="p-4 bg-white rounded-lg shadow flex items-center gap-4">
-                <div className="flex-shrink-0 flex items-center h-full">
+                <div className="flex-shrink-0 flex items-start pt-1">
                   <input aria-label={`select-${r.id}`} type="checkbox" checked={selected.has(r.id)} onChange={() => toggle(r.id)} className="h-5 w-5" />
                 </div>
-                <div className="flex-shrink-0 w-36 h-24 bg-gray-100 rounded overflow-hidden flex items-center justify-center">
+                <div style={{width: 180, height: 140, flex: '0 0 180px'}} className="bg-gray-100 rounded overflow-hidden flex items-center justify-center">
                   {r.image_url ? (
-                    <img src={r.image_url} alt={r.name} className="w-full h-full object-cover" onError={(e)=>{e.target.style.display='none'}} />
+                    <img src={r.image_url} alt={r.name} style={{width: '100%', height: '100%', objectFit: 'cover', display: 'block'}} onError={(e)=>{e.target.style.display='none'}} />
                   ) : (
                     <div className="text-xs text-gray-400">No image</div>
                   )}

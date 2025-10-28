@@ -1,5 +1,48 @@
 [
   {
+    "id": "a151ddf9-a12e-4730-88f5-f86946ef6d51",
+    "name": "Mango Lassi",
+    "cuisine": "Indian",
+    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/mango-lassi-recipe.jpg",
+    "ingredients": [
+      {
+        "name": "ripe mango pulp",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "curd",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "adjust to taste"
+      }
+    ],
+    "steps": [
+      "1) Add mango pulp, curd, and sugar to a blender.",
+      "2) Blend until smooth and creamy.",
+      "3) Pour into a glass and chill before serving.",
+      "4) Optionally garnish with mint or saffron strands."
+    ],
+    "calories": 180,
+    "servings": 2,
+    "prep_time_minutes": 3,
+    "cook_time_minutes": null,
+    "tags": [
+      "drink",
+      "refreshing",
+      "summer",
+      "3-ingredient"
+    ],
+    "created_at": "2025-10-28T16:17:44.208Z"
+  },
+  {
     "id": "1b6f3c0c-05aa-4001-ad16-67af53e0c909",
     "name": "Boiled Potato Chaat",
     "cuisine": "Indian",

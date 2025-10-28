@@ -1,5 +1,145 @@
 [
   {
+    "id": "b9e7e8d2-3f8e-4e2f-819d-51d5b190d17e",
+    "name": "Appam with Vegetable Stew",
+    "cuisine": "South Indian",
+    "image_url": "https://img.freepik.com/premium-photo/appam-mixed-dal-rava-appe-served-moody-background-with-green-red-chutney-ball-shape-popular-south-indian-breakfast-recipe-selective-focus_466689-65693.jpg?semt=ais_hybrid&w=740 ",
+    "ingredients": [
+      {
+        "name": "raw rice",
+        "amount": 2,
+        "unit": "cups",
+        "note": "soaked for 4–5 hours"
+      },
+      {
+        "name": "grated coconut",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "fresh"
+      },
+      {
+        "name": "cooked rice",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "optional"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "yeast",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "dry active yeast"
+      },
+      {
+        "name": "water",
+        "amount": 1,
+        "unit": "cup",
+        "note": "for grinding and fermentation"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "for greasing the pan"
+      },
+      {
+        "name": "coconut oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "for stew tempering"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "sliced thin"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "slit"
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "julienned"
+      },
+      {
+        "name": "mixed vegetables",
+        "amount": 1.5,
+        "unit": "cups",
+        "note": "carrot, beans, peas, and potato"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 8,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "coconut milk",
+        "amount": 1.5,
+        "unit": "cups",
+        "note": "thick milk"
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "for stew adjustment"
+      }
+    ],
+    "steps": [
+      "1) Soak 2 cups of raw rice for 4–5 hours.",
+      "2) Drain and grind the soaked rice along with 0.5 cup grated coconut, 0.25 cup cooked rice, sugar, and water to a smooth batter.",
+      "3) Add 0.5 tsp yeast dissolved in 2 tbsp warm water to the batter and mix well.",
+      "4) Cover and ferment overnight or 8 hours until the batter doubles and becomes slightly bubbly.",
+      "5) Add salt before making appams and mix gently.",
+      "6) Heat an appachatti (appam pan), grease lightly with oil, and pour a ladleful of batter.",
+      "7) Swirl the pan so that the batter spreads around the edges with a thicker center.",
+      "8) Cover and cook on low heat for 2–3 minutes until the edges are crisp and the center is soft and cooked.",
+      "9) Remove the appam gently and keep warm.",
+      "10) To prepare the stew, heat 1 tbsp coconut oil in a pan and add sliced onions, green chilies, and ginger.",
+      "11) Sauté for a minute, then add curry leaves and mixed vegetables.",
+      "12) Add a pinch of salt and 1/2 cup water. Cover and cook until vegetables are tender.",
+      "13) Add thick coconut milk and pepper powder. Mix well and simmer on low flame for 2 minutes. Do not boil.",
+      "14) Turn off the heat and drizzle a few drops of coconut oil on top.",
+      "15) Serve hot appams with warm vegetable stew."
+    ],
+    "calories": 400,
+    "servings": 3,
+    "prep_time_minutes": 480,
+    "cook_time_minutes": 25,
+    "tags": [
+      "breakfast",
+      "south-indian",
+      "fermented",
+      "coconut",
+      "vegan",
+      "traditional"
+    ],
+    "created_at": "2025-10-28T06:51:05.554Z"
+  },
+  {
     "id": "d2b82809-e93b-4827-bb72-d70395200a10",
     "name": "Pongal",
     "cuisine": "South Indian",

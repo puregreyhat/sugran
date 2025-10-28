@@ -1,5 +1,48 @@
 [
   {
+    "id": "a5105481-a1c5-47a9-af62-9076dc53611c",
+    "name": "Banana Pancake",
+    "cuisine": "Global",
+    "image_url": "https://celebratingsweets.com/wp-content/uploads/2018/01/Banana-Pancakes-2-2.jpg",
+    "ingredients": [
+      {
+        "name": "ripe banana",
+        "amount": 1,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "egg",
+        "amount": 1,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "butter or oil",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "for cooking"
+      }
+    ],
+    "steps": [
+      "1) Mash the ripe banana in a bowl until smooth.",
+      "2) Add the egg and whisk together until well combined.",
+      "3) Heat butter or oil in a non-stick pan and pour small rounds of the mixture.",
+      "4) Cook on medium flame until golden on both sides. Serve warm."
+    ],
+    "calories": 210,
+    "servings": 1,
+    "prep_time_minutes": 2,
+    "cook_time_minutes": 5,
+    "tags": [
+      "breakfast",
+      "healthy",
+      "quick",
+      "2-ingredient"
+    ],
+    "created_at": "2025-10-28T15:33:16.255Z"
+  },
+  {
     "id": "74c8ac52-b7ed-4e2a-9e6d-7246807bb830",
     "name": "Scrambled Eggs",
     "cuisine": "Western",

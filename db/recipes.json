@@ -1,5 +1,60 @@
 [
   {
+    "id": "56fff5c0-7fd8-4f8a-8309-58d28ad634e4",
+    "name": "Tomato Saar",
+    "cuisine": "Maharashtrian",
+    "image_url": "https://images.archanaskitchen.com/images/recipes/indian/main-course/north-indian-vegetarian-recipes/sabzi-recipes/Maharashtrian_Tomato_Saar_Recipe_46a5f2ffe2.jpg",
+    "ingredients": [
+      {
+        "name": "tomatoes",
+        "amount": 4,
+        "unit": "pcs",
+        "note": "chopped"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garlic cloves",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "crushed"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Boil chopped tomatoes with 1 cup of water until soft. Blend into a smooth puree.",
+      "2) Heat ghee in a pan, add cumin seeds and crushed garlic; sauté until fragrant.",
+      "3) Pour in the tomato puree, add salt, and simmer for 5 minutes.",
+      "4) Serve hot with rice or sip as a light soup."
+    ],
+    "calories": 100,
+    "servings": 2,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "tags": [
+      "light",
+      "vegetarian",
+      "gluten-free",
+      "soup"
+    ],
+    "created_at": "2025-10-28T06:43:41.749Z"
+  },
+  {
     "id": "e5f824ff-30c7-4059-8c6e-4bea5377ae94",
     "name": "Batata Bhaji",
     "cuisine": "Maharashtrian",

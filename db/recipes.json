@@ -1,5 +1,67 @@
 [
   {
+    "id": "e5f824ff-30c7-4059-8c6e-4bea5377ae94",
+    "name": "Batata Bhaji",
+    "cuisine": "Maharashtrian",
+    "image_url": "https://dukaan.b-cdn.net/700x700/webp/632280/42db5138-2b2e-410e-89c7-f7d5b86e8a46.png",
+    "ingredients": [
+      {
+        "name": "potatoes",
+        "amount": 3,
+        "unit": "pcs",
+        "note": "boiled and diced"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "slit"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Heat oil in a pan over medium flame. Add mustard seeds and let them splutter.",
+      "2) Add green chilies and sauté for a few seconds.",
+      "3) Add turmeric powder and mix quickly.",
+      "4) Add boiled diced potatoes and salt. Mix well.",
+      "5) Cook for 3–4 minutes while stirring gently. Serve hot with chapati or poori."
+    ],
+    "calories": 220,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "quick",
+      "vegan",
+      "gluten-free",
+      "simple"
+    ],
+    "created_at": "2025-10-28T06:42:38.938Z"
+  },
+  {
     "id": "361e2495-5574-4893-8ddc-6d47d5b56574",
     "name": "Medu Vada",
     "cuisine": "South Indian",

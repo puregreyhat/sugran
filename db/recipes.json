@@ -1,5 +1,124 @@
 [
   {
+    "id": "8ee2085f-0dbd-4b7d-be78-372d592327d1",
+    "name": "Bharli Vangi",
+    "cuisine": "Maharashtrian",
+    "image_url": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/12/bharli-vangi-stuffed-brinjal.jpg",
+    "ingredients": [
+      {
+        "name": "small brinjals",
+        "amount": 6,
+        "unit": "pcs",
+        "note": "preferably small and tender"
+      },
+      {
+        "name": "grated dry coconut",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "roasted peanuts",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "coarsely ground"
+      },
+      {
+        "name": "sesame seeds",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "roasted"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "medium",
+        "note": "finely chopped"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "godā masala",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "tamarind pulp",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "jaggery",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "optional"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "as required"
+      },
+      {
+        "name": "fresh coriander leaves",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for garnish"
+      }
+    ],
+    "steps": [
+      "1) Wash and slit each brinjal into a cross shape (keeping the stem intact) so they can be stuffed.",
+      "2) In a pan, dry roast grated coconut, sesame seeds, and peanuts until lightly golden. Cool and grind coarsely.",
+      "3) In a bowl, mix the ground mixture with onion, godā masala, red chili powder, turmeric, ginger-garlic paste, tamarind pulp, jaggery, and salt. Add a few drops of oil to bind the filling.",
+      "4) Stuff each brinjal carefully with this masala mixture. Keep any leftover stuffing aside.",
+      "5) Heat 3 tbsp oil in a heavy-bottomed pan or kadhai. Place the stuffed brinjals gently in the oil and sauté for 2–3 minutes on medium heat.",
+      "6) Add the leftover masala mixture to the pan and sprinkle 1/2 cup water. Cover and cook on low flame for 15–20 minutes, turning the brinjals occasionally until soft and well-cooked.",
+      "7) Once the oil separates and the masala thickens, turn off the heat.",
+      "8) Garnish with fresh coriander and serve hot with bhakri, chapati, or steamed rice."
+    ],
+    "calories": 220,
+    "servings": 3,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "tags": [
+      "traditional",
+      "vegetarian",
+      "stuffed-vegetable",
+      "maharashtrian"
+    ],
+    "created_at": "2025-10-28T14:54:27.640Z"
+  },
+  {
     "id": "765eff29-9e8f-4f0c-870d-33a174797c9e",
     "name": "Puran Poli",
     "cuisine": "Maharashtrian",

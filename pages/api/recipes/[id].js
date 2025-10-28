@@ -10,12 +10,17 @@ export default async function handler(req, res) {
   }
 
   if (req.method === 'DELETE') {
-    // require admin
-    if (!r) return res.status(404).json({ error: 'not found' });
-    const remaining = all.filter(x => x.id !== id);
-    const ok = await writeDb(remaining);
-    if (!ok) return res.status(500).json({ error: 'failed to delete' });
-    return res.status(200).json({ deleted: id });
+    try {
+      // require admin
+      if (!r) return res.status(404).json({ error: 'not found' });
+      const remaining = all.filter(x => x.id !== id);
+      const ok = await writeDb(remaining);
+      if (!ok) return res.status(500).json({ error: 'failed to delete' });
+      return res.status(200).json({ deleted: id });
+    } catch (e) {
+      console.error('delete handler error', e);
+      return res.status(500).json({ error: e?.message || 'failed to delete' });
+    }
   }
 
   if (req.method === 'PUT') {
@@ -52,12 +57,17 @@ export default async function handler(req, res) {
       }
     }
     updated.updated_at = new Date().toISOString();
-    const idx = all.findIndex(x => x.id === id);
-    if (idx === -1) return res.status(404).json({ error: 'not found' });
-    all[idx] = updated;
-    const ok = await writeDb(all);
-    if (!ok) return res.status(500).json({ error: 'failed to write db' });
-    return res.status(200).json({ recipe: updated });
+    try {
+      const idx = all.findIndex(x => x.id === id);
+      if (idx === -1) return res.status(404).json({ error: 'not found' });
+      all[idx] = updated;
+      const ok = await writeDb(all);
+      if (!ok) return res.status(500).json({ error: 'failed to write db' });
+      return res.status(200).json({ recipe: updated });
+    } catch (e) {
+      console.error('put handler error', e);
+      return res.status(500).json({ error: e?.message || 'failed to write db' });
+    }
   }
 
     res.setHeader('Allow', 'GET,PUT,DELETE');

@@ -1,5 +1,123 @@
 [
   {
+    "id": "ff5e7946-e20c-4314-8e49-da034b1ef044",
+    "name": "Upma",
+    "cuisine": "South Indian",
+    "image_url": "https://img-global.cpcdn.com/recipes/57a4892eeb9b2bb2/240x320cq80/photo.jpg ",
+    "ingredients": [
+      {
+        "name": "semolina",
+        "amount": 1,
+        "unit": "cup",
+        "note": "use medium-coarse variety"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "slit or chopped"
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 8,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "urad dal",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "chana dal",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "cashew nuts",
+        "amount": 6,
+        "unit": "pcs",
+        "note": "optional"
+      },
+      {
+        "name": "water",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for cooking"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for tempering"
+      },
+      {
+        "name": "fresh coriander",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "chopped, for garnish"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "optional, for tanginess"
+      }
+    ],
+    "steps": [
+      "1) Dry roast 1 cup semolina on low heat for 5–6 minutes until aromatic and lightly golden. Transfer to a bowl and set aside.",
+      "2) Heat 2 tbsp oil or ghee in a pan on medium flame.",
+      "3) Add mustard seeds and let them splutter.",
+      "4) Add urad dal, chana dal, and cashew nuts. Fry until they turn golden.",
+      "5) Add curry leaves, green chilies, and chopped ginger. Sauté for 20–30 seconds.",
+      "6) Add finely chopped onions and cook until they turn soft and translucent.",
+      "7) Add 2 cups of water and salt to taste. Bring it to a boil.",
+      "8) Once the water starts boiling, gradually add roasted semolina while stirring continuously to prevent lumps.",
+      "9) Reduce the flame to low and cook for 3–4 minutes until the water is absorbed and the mixture thickens.",
+      "10) Turn off the heat, add lemon juice if desired, and mix gently.",
+      "11) Garnish with chopped coriander and serve hot."
+    ],
+    "calories": 280,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "tags": [
+      "breakfast",
+      "south-indian",
+      "vegetarian",
+      "quick-meal",
+      "light-food",
+      "comfort-food"
+    ],
+    "created_at": "2025-10-28T06:45:55.534Z"
+  },
+  {
     "id": "80526746-54aa-427b-bac9-cad5ea0b89fe",
     "name": "Kanda Bhaji",
     "cuisine": "Maharashtrian",

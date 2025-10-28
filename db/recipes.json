@@ -1,5 +1,45 @@
 [
   {
+    "id": "74c8ac52-b7ed-4e2a-9e6d-7246807bb830",
+    "name": "Scrambled Eggs",
+    "cuisine": "Western",
+    "image_url": "https://www.seriouseats.com/thmb/Z3MA_aB41Mtnfx2nACKM8NwDHzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__05__20150511-scrambled-eggs-vicky-wasik-17-c96b9d65e3bc4b1097aa15b84721b4b9.jpg",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "amount": 2,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "butter",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "pinch",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Crack eggs into a bowl and whisk lightly with salt.",
+      "2) Heat butter in a pan, pour in the eggs, and stir continuously until soft and fluffy."
+    ],
+    "calories": 180,
+    "servings": 1,
+    "prep_time_minutes": 2,
+    "cook_time_minutes": 3,
+    "tags": [
+      "breakfast",
+      "protein",
+      "quick"
+    ],
+    "created_at": "2025-10-28T15:31:09.560Z"
+  },
+  {
     "id": "c88fceae-ef81-4559-8afd-52c3ae642d38",
     "name": "Bhakri",
     "cuisine": "Maharashtrian",

@@ -1,31 +1,8 @@
-import fs from 'fs';
-import path from 'path';
-// adminAuth removed for open access
+import { readDb, writeDb } from '../../../lib/db';
 
-const DB_PATH = path.join(process.cwd(), 'db', 'recipes.json');
-
-function readDb() {
-  try {
-    const raw = fs.readFileSync(DB_PATH, 'utf-8');
-    return JSON.parse(raw);
-  } catch (e) {
-    return [];
-  }
-}
-
-function writeDb(data) {
-  try {
-    fs.mkdirSync(path.dirname(DB_PATH), { recursive: true });
-    fs.writeFileSync(DB_PATH, JSON.stringify(data, null, 2), 'utf-8');
-    return true;
-  } catch (e) {
-    return false;
-  }
-}
-
-export default function handler(req, res) {
+export default async function handler(req, res) {
   const { id } = req.query;
-  const all = readDb();
+  const all = await readDb();
   const r = all.find(x => x.id === id);
   if (req.method === 'GET') {
     if (!r) return res.status(404).json({ error: 'not found' });
@@ -36,19 +13,16 @@ export default function handler(req, res) {
     // require admin
     if (!r) return res.status(404).json({ error: 'not found' });
     const remaining = all.filter(x => x.id !== id);
-    try {
-      fs.writeFileSync(DB_PATH, JSON.stringify(remaining, null, 2), 'utf-8');
-      return res.status(200).json({ deleted: id });
-    } catch (e) {
-      return res.status(500).json({ error: 'failed to delete' });
-    }
+    const ok = await writeDb(remaining);
+    if (!ok) return res.status(500).json({ error: 'failed to delete' });
+    return res.status(200).json({ deleted: id });
   }
 
   if (req.method === 'PUT') {
     // require admin
-    if (!r) return res.status(404).json({ error: 'not found' });
-    let body = req.body || {};
-    if (body && body.recipe) body = body.recipe;
+  if (!r) return res.status(404).json({ error: 'not found' });
+  let body = req.body || {};
+  if (body && body.recipe) body = body.recipe;
     // allowed fields to update
     const allowed = ['name','cuisine','image_url','ingredients','steps','calories','servings','prep_time_minutes','cook_time_minutes','tags'];
     const updated = { ...r };
@@ -81,7 +55,7 @@ export default function handler(req, res) {
     const idx = all.findIndex(x => x.id === id);
     if (idx === -1) return res.status(404).json({ error: 'not found' });
     all[idx] = updated;
-    const ok = writeDb(all);
+    const ok = await writeDb(all);
     if (!ok) return res.status(500).json({ error: 'failed to write db' });
     return res.status(200).json({ recipe: updated });
   }

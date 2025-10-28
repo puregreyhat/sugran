@@ -1,26 +1,9 @@
-import fs from 'fs';
-import path from 'path';
 import { v4 as uuidv4 } from 'uuid';
+import { readDb, writeDb } from '../../../lib/db';
 
-const DB_PATH = path.join(process.cwd(), 'db', 'recipes.json');
-
-function readDb() {
-  try {
-    const raw = fs.readFileSync(DB_PATH, 'utf-8');
-    return JSON.parse(raw);
-  } catch (e) {
-    return [];
-  }
-}
-
-function writeDb(data) {
-  fs.mkdirSync(path.dirname(DB_PATH), { recursive: true });
-  fs.writeFileSync(DB_PATH, JSON.stringify(data, null, 2), 'utf-8');
-}
-
-export default function handler(req, res) {
+export default async function handler(req, res) {
   if (req.method === 'GET') {
-    const all = readDb();
+  const all = await readDb();
     // support query params: cuisine, q (search term)
     const { cuisine, q, limit } = req.query;
     let out = all;
@@ -79,7 +62,8 @@ export default function handler(req, res) {
       created_at: new Date().toISOString(),
     };
     all.unshift(newRecipe);
-    writeDb(all);
+    const ok = await writeDb(all);
+    if (!ok) return res.status(500).json({ error: 'failed to write db' });
     return res.status(201).json({ recipe: newRecipe });
   }
 

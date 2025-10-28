@@ -1,5 +1,48 @@
 [
   {
+    "id": "1b6f3c0c-05aa-4001-ad16-67af53e0c909",
+    "name": "Boiled Potato Chaat",
+    "cuisine": "Indian",
+    "image_url": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/03/boiled-potato-chaat-recipe.jpg",
+    "ingredients": [
+      {
+        "name": "boiled potatoes",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "medium-sized"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "to taste"
+      }
+    ],
+    "steps": [
+      "1) Peel and cube the boiled potatoes into bite-sized pieces.",
+      "2) Add salt and lemon juice, then toss gently to combine.",
+      "3) Serve fresh as a light snack or side dish.",
+      "4) Optionally, sprinkle a pinch of chili powder or chaat masala for extra flavor."
+    ],
+    "calories": 160,
+    "servings": 2,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": null,
+    "tags": [
+      "snack",
+      "vegan",
+      "quick",
+      "2-ingredient"
+    ],
+    "created_at": "2025-10-28T16:16:51.946Z"
+  },
+  {
     "id": "26fc735a-f38c-468e-9dba-09a4869556c8",
     "name": "Chocolate Mug Cake",
     "cuisine": "Global",

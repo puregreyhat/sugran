@@ -3,7 +3,7 @@
     "id": "c2cfe6ed-a967-4347-94f2-2595428750b2",
     "name": "Cheese Quesadilla",
     "cuisine": "Mexican",
-    "image_url": "https://www.simplyrecipes.com/thmb/Fx0xjzJgQhwo3T8VZEmv8A9Z2H0=/1777x1333/smart/filters:no_upscale()/Simply-Recipes-Cheese-Quesadilla-LEAD-2-5d40e3d8dc474c129e51de0ff056505d.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQOzQEDrdwK9iybTGLLQhHnyMoXesavm1Rw&s",
     "ingredients": [
       {
         "name": "flour tortillas",
@@ -41,7 +41,8 @@
       "quick",
       "3-ingredient"
     ],
-    "created_at": "2025-10-28T16:18:46.840Z"
+    "created_at": "2025-10-28T16:18:46.840Z",
+    "updated_at": "2025-10-28T16:19:01.593Z"
   },
   {
     "id": "a151ddf9-a12e-4730-88f5-f86946ef6d51",

@@ -1,5 +1,95 @@
 [
   {
+    "id": "32f97227-33b5-4acb-bc15-e153b10faf3e",
+    "name": "Zunka",
+    "cuisine": "Maharashtrian",
+    "image_url": "https://www.whiskaffair.com/wp-content/uploads/2020/03/Zunka-2-3.jpg",
+    "ingredients": [
+      {
+        "name": "gram flour",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "onion",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "curry leaves",
+        "amount": 6,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "approx, for sprinkling"
+      },
+      {
+        "name": "fresh coriander",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped, for garnish"
+      }
+    ],
+    "steps": [
+      "1) Heat 2 tbsp oil in a kadhai or pan over medium flame. Add mustard seeds and let them splutter.",
+      "2) Add curry leaves and chopped onions. Sauté for 3–4 minutes until onions turn translucent.",
+      "3) Add turmeric powder, red chili powder, and salt. Mix well.",
+      "4) Reduce the heat to low. Sprinkle in the gram flour (besan) gradually while stirring continuously to prevent lumps.",
+      "5) Lightly sprinkle a few tablespoons of water to moisten the mixture. Keep stirring so the besan cooks evenly.",
+      "6) Continue cooking on low heat for 8–10 minutes, stirring every minute until the besan becomes dry, crumbly, and aromatic.",
+      "7) Turn off the heat. Garnish with chopped coriander leaves.",
+      "8) Serve hot with bhakri, roti, or rice and a side of thecha or pickle."
+    ],
+    "calories": 300,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "tags": [
+      "traditional",
+      "vegetarian",
+      "gluten-free",
+      "protein-rich",
+      "simple"
+    ],
+    "created_at": "2025-10-28T06:49:19.086Z"
+  },
+  {
     "id": "ff5e7946-e20c-4314-8e49-da034b1ef044",
     "name": "Upma",
     "cuisine": "South Indian",

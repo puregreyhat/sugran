@@ -1,5 +1,49 @@
 [
   {
+    "id": "47645a6b-d534-4d90-bc92-2f7700d48837",
+    "name": "Cacio e Pepe",
+    "cuisine": "Italian",
+    "image_url": "https://assets.bonappetit.com/photos/65f995a6bb3f09a2cbbdbd01/3:2/w_5064,h_3376,c_limit/20240312_WEB_SOY_051_ret2.jpg",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "amount": 100,
+        "unit": "g",
+        "note": null
+      },
+      {
+        "name": "pecorino romano cheese",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "freshly grated"
+      },
+      {
+        "name": "black pepper",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "freshly ground"
+      }
+    ],
+    "steps": [
+      "1) Boil spaghetti in salted water until al dente. Reserve 1/2 cup of pasta water.",
+      "2) In a pan, toast crushed black pepper for a few seconds.",
+      "3) Add a splash of reserved pasta water and cooked spaghetti.",
+      "4) Sprinkle grated pecorino while tossing vigorously until creamy. Adjust consistency with more pasta water if needed.",
+      "5) Serve immediately with extra cheese and pepper on top."
+    ],
+    "calories": 420,
+    "servings": 2,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "tags": [
+      "pasta",
+      "vegetarian",
+      "italian",
+      "minimal"
+    ],
+    "created_at": "2025-10-28T15:38:50.843Z"
+  },
+  {
     "id": "fcc94565-b0bf-4e2f-82cf-9264024d234d",
     "name": "Butter Paratha",
     "cuisine": "North Indian",

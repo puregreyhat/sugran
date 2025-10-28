@@ -1,5 +1,120 @@
 [
   {
+    "id": "5a00b270-9bf5-43f5-ad1d-099e03af80ca",
+    "name": "Kanda Pohe",
+    "cuisine": "Maharashtrian",
+    "image_url": null,
+    "ingredients": [
+      {
+        "name": "thick poha",
+        "amount": 2,
+        "unit": "cups",
+        "note": "use thick variety, not thin"
+      },
+      {
+        "name": "onion",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "slit or finely chopped"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "curry leaves",
+        "amount": 8,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "peanuts",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "sugar",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "optional"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "lemon",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "for juice"
+      },
+      {
+        "name": "fresh coriander",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped, for garnish"
+      },
+      {
+        "name": "grated coconut",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "optional, for garnish"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "water",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "for sprinkling"
+      }
+    ],
+    "steps": [
+      "1) Preparation: Place 2 cups of thick poha in a large sieve or colander. Rinse gently under running water for 10–15 seconds. Do not soak. Let it sit for 10 minutes to soften naturally. After resting, sprinkle a few tablespoons of water if it feels dry. Mix in salt, sugar (if using), and turmeric powder directly into the poha and fluff with a spoon.",
+      "2) Tempering: Heat 2 tbsp oil in a heavy-bottomed kadhai or non-stick pan over medium heat. Add 3 tbsp peanuts and roast them until golden and crisp. Remove and set aside.",
+      "3) In the same oil, add 0.5 tsp mustard seeds. When they start to pop, add curry leaves and green chilies. Sauté for 15–20 seconds until fragrant.",
+      "4) Add the chopped onions and cook for 3–4 minutes until they turn translucent (not browned).",
+      "5) Add the softened poha mixture and gently toss everything together using a flat spatula. Add roasted peanuts back in. Mix well but avoid breaking the poha flakes.",
+      "6) Cover and steam on low heat for 2–3 minutes. This allows the flavors to combine and the poha to become fluffy.",
+      "7) Turn off the heat. Add lemon juice and chopped coriander. Mix lightly.",
+      "8) Garnish with grated coconut (optional) and serve hot immediately with extra lemon wedges and a cup of hot chai."
+    ],
+    "calories": 280,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "breakfast",
+      "maharashtrian",
+      "vegan",
+      "gluten-free",
+      "quick-meal",
+      "street-food"
+    ],
+    "created_at": "2025-10-28T04:17:12.287Z"
+  },
+  {
     "id": "d8a50ccd-b3b2-4bdd-b790-7bc414388e78",
     "name": "Pav Bhaji",
     "cuisine": "Maharashtrian",

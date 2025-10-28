@@ -1,5 +1,59 @@
 [
   {
+    "id": "c88fceae-ef81-4559-8afd-52c3ae642d38",
+    "name": "Bhakri",
+    "cuisine": "Maharashtrian",
+    "image_url": "https://buykadaknath.com/cdn/shop/files/2.jpg?v=1706613718",
+    "ingredients": [
+      {
+        "name": "jowar flour",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "hot water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "as needed for kneading"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "pinch",
+        "note": "optional"
+      },
+      {
+        "name": "flour",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "to help with rolling"
+      }
+    ],
+    "steps": [
+      "1) Boil water until hot (not boiling vigorously). In a mixing bowl, add jowar flour and a pinch of salt if desired.",
+      "2) Gradually pour hot water into the flour while stirring with a spoon. Once slightly cool, knead with hands into a smooth, soft dough.",
+      "3) Divide the dough into equal portions and shape into balls.",
+      "4) Sprinkle dry jowar flour on the surface. Flatten one ball with your palms and gently roll into a thick circle, about 6–7 inches wide.",
+      "5) Heat a tawa or flat pan over medium heat. Place the bhakri on it and cook for 30–40 seconds until small bubbles appear.",
+      "6) Flip it and press gently with a cloth or spatula so it puffs up. Cook until brown spots appear on both sides.",
+      "7) Optionally, roast directly over flame for a few seconds to make it fluffier.",
+      "8) Brush lightly with ghee if desired and serve hot with zunka, thecha, or pitla."
+    ],
+    "calories": 120,
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "flatbread",
+      "vegan",
+      "gluten-free",
+      "traditional",
+      "maharashtrian"
+    ],
+    "created_at": "2025-10-28T14:57:45.208Z"
+  },
+  {
     "id": "df46dd99-aeaa-46bd-a8ef-093e37f05cda",
     "name": "Thecha",
     "cuisine": "Maharashtrian",

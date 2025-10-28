@@ -1,5 +1,91 @@
 [
   {
+    "id": "361e2495-5574-4893-8ddc-6d47d5b56574",
+    "name": "Medu Vada",
+    "cuisine": "South Indian",
+    "image_url": "https://thumbs.dreamstime.com/b/close-up-medu-vada-savory-doughnut-made-urad-dal-served-sambar-coconut-chutney-isolated-clean-white-372750242.jpg",
+    "ingredients": [
+      {
+        "name": "urad dal",
+        "amount": 1,
+        "unit": "cup",
+        "note": "whole skinned black gram"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "grated"
+      },
+      {
+        "name": "black peppercorns",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "coarsely crushed"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 8,
+        "unit": "pcs",
+        "note": "chopped"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped (optional)"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 500,
+        "unit": "ml",
+        "note": "for deep frying"
+      },
+      {
+        "name": "water",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "for grinding"
+      }
+    ],
+    "steps": [
+      "1) Wash and soak 1 cup urad dal in enough water for 4 hours.",
+      "2) Drain and grind the soaked dal with minimal water into a thick, fluffy batter.",
+      "3) Beat the batter with your hand or spoon for 2–3 minutes to incorporate air and make it light.",
+      "4) Add finely chopped green chilies, ginger, curry leaves, crushed pepper, onion (optional), and salt to the batter. Mix well.",
+      "5) Heat oil in a deep frying pan on medium flame until hot.",
+      "6) Wet your palms, take a small portion of batter, shape it into a doughnut with a hole in the center, and carefully slide it into the oil.",
+      "7) Fry 3–4 vadas at a time until golden brown and crisp on both sides.",
+      "8) Remove onto absorbent paper to drain excess oil.",
+      "9) Serve hot with coconut chutney and sambar."
+    ],
+    "calories": 320,
+    "servings": 4,
+    "prep_time_minutes": 300,
+    "cook_time_minutes": 20,
+    "tags": [
+      "breakfast",
+      "south-indian",
+      "deep-fried",
+      "vegetarian",
+      "traditional",
+      "festival-food"
+    ],
+    "created_at": "2025-10-28T06:41:46.234Z"
+  },
+  {
     "id": "877eab12-9028-4dc0-ad36-398350d8fba9",
     "name": "Idli",
     "cuisine": "South Indian",

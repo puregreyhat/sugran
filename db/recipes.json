@@ -1,5 +1,141 @@
 [
   {
+    "id": "e4822d19-d72f-43b5-94b5-ddfd2c8f3ad7",
+    "name": "Chilli Paneer",
+    "cuisine": "Chinese",
+    "image_url": "https://www.haribhoomi.com/h-upload/2025/06/09/1280x720_2433431-chilli-paneer.webp ",
+    "ingredients": [
+      {
+        "name": "paneer",
+        "amount": 250,
+        "unit": "grams",
+        "note": "cut into cubes"
+      },
+      {
+        "name": "corn flour",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for coating"
+      },
+      {
+        "name": "all-purpose flour",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for coating"
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for deep frying"
+      },
+      {
+        "name": "capsicum",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "cubed"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "cubed"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "slit"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "chili sauce",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "tomato ketchup",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "vinegar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "white or rice vinegar"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "spring onions",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "chopped for garnish"
+      },
+      {
+        "name": "corn flour slurry",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "mix 1 tbsp corn flour in 3 tbsp water"
+      },
+      {
+        "name": "water",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "for sauce consistency"
+      }
+    ],
+    "steps": [
+      "1) In a bowl, mix corn flour, maida, salt, pepper, and a few tablespoons of water to make a thick batter.",
+      "2) Add paneer cubes and coat them evenly in the batter.",
+      "3) Heat oil in a deep pan and fry the coated paneer cubes on medium flame until golden and crisp. Remove and drain on paper towels.",
+      "4) Heat 1 tbsp oil in a wok on high flame.",
+      "5) Add chopped garlic and slit green chilies. Sauté for 30 seconds until fragrant.",
+      "6) Add cubed onions and capsicum. Stir-fry for 2–3 minutes on high flame until slightly tender but still crisp.",
+      "7) Add soy sauce, chili sauce, tomato ketchup, and vinegar. Stir well.",
+      "8) Pour in 1/4 cup water and bring to a simmer.",
+      "9) Add corn flour slurry to thicken the sauce. Stir continuously until it reaches a glossy consistency.",
+      "10) Add fried paneer cubes and toss gently to coat them evenly in the sauce.",
+      "11) Garnish with chopped spring onions and serve hot as a starter or with fried rice or noodles."
+    ],
+    "calories": 360,
+    "servings": 3,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "tags": [
+      "chinese",
+      "indo-chinese",
+      "starter",
+      "paneer",
+      "spicy",
+      "street-food"
+    ],
+    "created_at": "2025-10-29T04:10:56.689Z"
+  },
+  {
     "id": "c38ca099-7583-4630-8eee-29e77850b860",
     "name": "Schezwan Fried Rice",
     "cuisine": "Chinese",

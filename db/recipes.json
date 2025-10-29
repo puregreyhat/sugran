@@ -1,5 +1,105 @@
 [
   {
+    "id": "0f63e784-b7c5-4cd9-a934-28f78a53655f",
+    "name": "Ven Pongal",
+    "cuisine": "South Indian",
+    "image_url": "https://media.gettyimages.com/id/1457414710/photo/sakkarai-pongal.jpg?s=612x612&w=0&k=20&c=LGMNx3TGfJCGwygSZFu3b7N0YiXYtEusdf0fZ9ZVB8M= ",
+    "ingredients": [
+      {
+        "name": "raw rice",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "short grain rice preferred"
+      },
+      {
+        "name": "moong dal",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "lightly roasted"
+      },
+      {
+        "name": "water",
+        "amount": 3,
+        "unit": "cups",
+        "note": "for cooking"
+      },
+      {
+        "name": "ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for tempering"
+      },
+      {
+        "name": "black peppercorns",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "lightly crushed"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "cashew nuts",
+        "amount": 8,
+        "unit": "pcs",
+        "note": "halved"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 6,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "asafoetida",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      }
+    ],
+    "steps": [
+      "1) Dry roast the moong dal in a pan for 2–3 minutes until aromatic but not browned.",
+      "2) Wash the roasted moong dal and rice together in water until clear.",
+      "3) Add them to a pressure cooker with 3 cups of water and a pinch of salt.",
+      "4) Pressure cook for 4–5 whistles on medium flame until soft and mushy.",
+      "5) Once pressure releases, open and mash lightly for a creamy consistency.",
+      "6) Heat 2 tbsp ghee in a small pan for tempering.",
+      "7) Add cashews and fry until golden, then remove and set aside.",
+      "8) In the same ghee, add cumin seeds, crushed peppercorns, chopped ginger, curry leaves, and hing.",
+      "9) Fry for a few seconds until fragrant and then pour the tempering into the cooked rice-dal mixture.",
+      "10) Mix well, add fried cashews, and stir to combine everything evenly.",
+      "11) Serve hot with coconut chutney or sambar."
+    ],
+    "calories": 320,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "tags": [
+      "south-indian",
+      "vegetarian",
+      "comfort-food",
+      "breakfast",
+      "temple-style",
+      "gluten-free"
+    ],
+    "created_at": "2025-10-29T04:04:57.594Z"
+  },
+  {
     "id": "e918f1f6-b50f-47b8-9c49-9b0e51ab5f36",
     "name": "Coconut Chutney",
     "cuisine": "South Indian",

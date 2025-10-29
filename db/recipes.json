@@ -1,5 +1,85 @@
 [
   {
+    "id": "347322db-303e-43e4-86cf-61cf6739a71c",
+    "name": "Uttapam",
+    "cuisine": "South Indian",
+    "image_url": "https://t3.ftcdn.net/jpg/08/19/82/78/360_F_819827835_xYTWgRhtWpCIQpnCvhQLBVEqdQ9fTZ3k.jpg ",
+    "ingredients": [
+      {
+        "name": "idli dosa batter",
+        "amount": 2,
+        "unit": "cups",
+        "note": "fermented batter"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "tomato",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "chopped"
+      },
+      {
+        "name": "carrot",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "grated"
+      },
+      {
+        "name": "fresh coriander",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "chopped"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for cooking"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "if needed (adjust as batter may already contain salt)"
+      }
+    ],
+    "steps": [
+      "1) Mix the idli dosa batter well. Adjust consistency with a few tablespoons of water if it is too thick.",
+      "2) In a bowl, combine chopped onions, tomatoes, green chilies, grated carrots, and coriander.",
+      "3) Heat a non-stick tawa or iron skillet on medium flame and grease it lightly with oil or ghee.",
+      "4) Pour a ladleful of batter and spread it slightly to form a thick pancake about 1/4 inch thick.",
+      "5) Sprinkle the mixed vegetables evenly on top of the batter.",
+      "6) Drizzle a few drops of oil or ghee around the edges and over the top.",
+      "7) Cook on medium flame for 2–3 minutes until the base turns golden brown.",
+      "8) Flip carefully and cook the other side for 1–2 minutes until the vegetables are slightly roasted.",
+      "9) Remove from the pan and serve hot with coconut chutney or sambar."
+    ],
+    "calories": 310,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "tags": [
+      "breakfast",
+      "south-indian",
+      "vegetarian",
+      "fermented",
+      "street-food",
+      "quick-meal"
+    ],
+    "created_at": "2025-10-29T03:58:09.396Z"
+  },
+  {
     "id": "c2cfe6ed-a967-4347-94f2-2595428750b2",
     "name": "Cheese Quesadilla",
     "cuisine": "Mexican",

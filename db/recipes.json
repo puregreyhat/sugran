@@ -1,5 +1,120 @@
 [
   {
+    "id": "c38ca099-7583-4630-8eee-29e77850b860",
+    "name": "Schezwan Fried Rice",
+    "cuisine": "Chinese",
+    "image_url": "https://media.istockphoto.com/id/1086582254/photo/schezwan-fried-rice-masala-is-a-popular-indo-chinese-food-served-in-a-plate-or-bowl-with.jpg?s=612x612&w=0&k=20&c=9c2Jtt-T5cJihCwe97RIWBNh-3FcU-2oSnfl5Jf3rvA= ",
+    "ingredients": [
+      {
+        "name": "basmati or jasmine rice",
+        "amount": 1.5,
+        "unit": "cups",
+        "note": "cooked and cooled completely"
+      },
+      {
+        "name": "carrot",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "finely chopped"
+      },
+      {
+        "name": "capsicum",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "finely chopped"
+      },
+      {
+        "name": "spring onions",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped, green and white separated"
+      },
+      {
+        "name": "cabbage",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "shredded"
+      },
+      {
+        "name": "beans",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped"
+      },
+      {
+        "name": "Schezwan sauce",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "store-bought or homemade"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "light or dark"
+      },
+      {
+        "name": "vinegar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "white or rice vinegar"
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "freshly ground"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 1.5,
+        "unit": "tbsp",
+        "note": "preferably sesame or vegetable oil"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "optional, finely chopped"
+      }
+    ],
+    "steps": [
+      "1) Cook rice until just done, spread it on a plate, and cool completely.",
+      "2) Heat oil in a wok on high flame.",
+      "3) Add chopped garlic and sauté for 30 seconds until fragrant.",
+      "4) Add the white part of spring onions and chopped vegetables. Stir-fry for 2–3 minutes on high flame without overcooking.",
+      "5) Add Schezwan sauce, soy sauce, and vinegar. Mix quickly.",
+      "6) Add the cooked rice and toss everything well to combine.",
+      "7) Sprinkle black pepper and salt, and stir-fry on high flame for another minute to develop smoky flavor.",
+      "8) Garnish with spring onion greens and serve hot with Schezwan chutney or Veg Manchurian."
+    ],
+    "calories": 330,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "chinese",
+      "schezwan",
+      "spicy",
+      "fried-rice",
+      "street-food",
+      "main-course"
+    ],
+    "created_at": "2025-10-29T04:09:46.966Z"
+  },
+  {
     "id": "f041512c-1625-41bd-bf16-b79367764a12",
     "name": "Hakka Noodles",
     "cuisine": "Chinese",

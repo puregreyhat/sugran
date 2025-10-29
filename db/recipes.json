@@ -3,7 +3,7 @@
     "id": "4f04e5ac-4ebb-4f14-88c2-30c4d6b22be9",
     "name": "Peanut Butter Cookies",
     "cuisine": "American",
-    "image_url": "https://www.livewellbakeoften.com/wp-content/uploads/2020/07/3-Ingredient-Peanut-Butter-Cookies-7.jpg",
+    "image_url": "https://crayonsandcravings.com/wp-content/uploads/2022/04/Old-fashioned-peanut-butter-cookies.jpg",
     "ingredients": [
       {
         "name": "peanut butter",
@@ -41,7 +41,8 @@
       "baking",
       "gluten-free"
     ],
-    "created_at": "2025-10-29T04:19:37.772Z"
+    "created_at": "2025-10-29T04:19:37.772Z",
+    "updated_at": "2025-10-29T04:19:54.596Z"
   },
   {
     "id": "f63a1f84-1091-421d-9cff-957ffb744a43",

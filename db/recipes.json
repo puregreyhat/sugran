@@ -1,5 +1,135 @@
 [
   {
+    "id": "9b431377-3c26-46a4-8348-5dc9f806ab05",
+    "name": "Sambar",
+    "cuisine": "South Indian",
+    "image_url": "https://www.yummytummyaarthi.com/wp-content/uploads/2023/08/sambar-1.jpeg ",
+    "ingredients": [
+      {
+        "name": "toor dal",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "washed and soaked for 30 minutes"
+      },
+      {
+        "name": "tamarind",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "soaked in warm water"
+      },
+      {
+        "name": "sambar powder",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "store-bought or homemade"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "curry leaves",
+        "amount": 8,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "dry red chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "asafoetida",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "mixed vegetables",
+        "amount": 2,
+        "unit": "cups",
+        "note": "drumstick, brinjal, carrot, beans, pumpkin"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "small, chopped or sliced"
+      },
+      {
+        "name": "tomato",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "chopped"
+      },
+      {
+        "name": "jaggery",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "optional for balance"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 1.5,
+        "unit": "tbsp",
+        "note": "for tempering"
+      },
+      {
+        "name": "water",
+        "amount": 3,
+        "unit": "cups",
+        "note": "as needed for consistency"
+      },
+      {
+        "name": "fresh coriander",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "chopped for garnish"
+      }
+    ],
+    "steps": [
+      "1) Wash and pressure cook 0.75 cup toor dal with 2 cups water, turmeric, and a drop of oil for 4–5 whistles until soft.",
+      "2) Mash the cooked dal smoothly and set aside.",
+      "3) Soak tamarind in 1/2 cup warm water for 10 minutes and extract the pulp. Discard the residue.",
+      "4) In a pot, heat 1/2 tbsp oil and sauté onions and tomatoes for 2 minutes.",
+      "5) Add chopped vegetables and stir for another 2–3 minutes.",
+      "6) Add 1 cup water and cook until the vegetables are tender.",
+      "7) Add tamarind pulp, sambar powder, jaggery, and salt. Mix well and simmer for 5 minutes.",
+      "8) Add the mashed dal and 1 more cup of water to adjust consistency. Simmer for 8–10 minutes until the flavors blend well.",
+      "9) For tempering, heat 1 tbsp oil in a small pan, add mustard seeds, red chilies, curry leaves, and asafoetida. Let them crackle.",
+      "10) Pour the tempering over the simmering sambar and mix gently.",
+      "11) Garnish with chopped coriander and serve hot with idli, dosa, or rice."
+    ],
+    "calories": 180,
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "tags": [
+      "south-indian",
+      "vegetarian",
+      "lentil",
+      "gluten-free",
+      "main-course",
+      "comfort-food"
+    ],
+    "created_at": "2025-10-29T04:02:10.778Z"
+  },
+  {
     "id": "347322db-303e-43e4-86cf-61cf6739a71c",
     "name": "Uttapam",
     "cuisine": "South Indian",

@@ -1,5 +1,108 @@
 [
   {
+    "id": "14222297-fcb0-4dcd-b81b-87404b9eecd6",
+    "name": "Chicken Fried Rice",
+    "cuisine": "Chinese",
+    "image_url": " https://houseofnasheats.com/wp-content/uploads/2023/01/Chicken-Fried-Rice-Recipe-9-scaled.jpg",
+    "ingredients": [
+      {
+        "name": "basmati or jasmine rice",
+        "amount": 1.5,
+        "unit": "cups",
+        "note": "cooked and cooled completely"
+      },
+      {
+        "name": "chicken breast",
+        "amount": 150,
+        "unit": "grams",
+        "note": "cut into small cubes"
+      },
+      {
+        "name": "egg",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "lightly beaten"
+      },
+      {
+        "name": "carrot",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "finely chopped"
+      },
+      {
+        "name": "spring onions",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped, green and white separated"
+      },
+      {
+        "name": "capsicum",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "finely chopped"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1.5,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "vinegar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "freshly ground"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 1.5,
+        "unit": "tbsp",
+        "note": "preferably sesame or vegetable oil"
+      }
+    ],
+    "steps": [
+      "1) Heat half the oil in a wok on high flame.",
+      "2) Add the beaten egg, scramble it quickly, and cook until just set. Remove and set aside.",
+      "3) In the same wok, add remaining oil and stir-fry garlic for 30 seconds until fragrant.",
+      "4) Add the chicken cubes and stir-fry on high flame for 4–5 minutes until fully cooked and lightly browned.",
+      "5) Add chopped carrot, capsicum, and the white part of spring onions. Stir-fry for 2–3 minutes without overcooking.",
+      "6) Add soy sauce, vinegar, black pepper, and salt. Mix well.",
+      "7) Add cooked rice and toss everything on high flame for 2–3 minutes.",
+      "8) Add scrambled eggs back in and mix evenly.",
+      "9) Garnish with spring onion greens and serve hot with chili sauce or Manchurian gravy."
+    ],
+    "calories": 420,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "tags": [
+      "chinese",
+      "non-veg",
+      "fried-rice",
+      "street-food",
+      "quick-meal"
+    ],
+    "created_at": "2025-10-29T04:16:19.415Z"
+  },
+  {
     "id": "78cbc2f2-17a9-4ab1-b2cb-545cfe2e0311",
     "name": "Veg Hakka Noodles",
     "cuisine": "Chinese",

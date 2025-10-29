@@ -1,5 +1,103 @@
 [
   {
+    "id": "e918f1f6-b50f-47b8-9c49-9b0e51ab5f36",
+    "name": "Coconut Chutney",
+    "cuisine": "South Indian",
+    "image_url": "https://media.istockphoto.com/id/1083233444/photo/nariyal-or-coconut-chutney-served-in-a-bowl-isolated-over-moody-background-selective-focus.jpg?s=612x612&w=0&k=20&c=X_DRYAVpkXJRkTIzVLrXASirhq5ZrjAAsdxF55TsTzA= ",
+    "ingredients": [
+      {
+        "name": "fresh grated coconut",
+        "amount": 1,
+        "unit": "cup",
+        "note": "loosely packed"
+      },
+      {
+        "name": "roasted chana dal",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "adjust to spice preference"
+      },
+      {
+        "name": "ginger",
+        "amount": 0.5,
+        "unit": "inch",
+        "note": "peeled"
+      },
+      {
+        "name": "salt",
+        "amount": 0.75,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "adjust for consistency"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "for tempering"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "urad dal",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "dry red chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "broken"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 6,
+        "unit": "pcs",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) In a blender jar, add grated coconut, roasted chana dal, green chilies, ginger, and salt.",
+      "2) Add 1/4 to 1/2 cup water and blend to a smooth paste. Adjust consistency as desired.",
+      "3) Transfer the chutney to a serving bowl.",
+      "4) For tempering, heat 1 tsp oil in a small pan.",
+      "5) Add mustard seeds and let them crackle.",
+      "6) Add urad dal and fry until golden.",
+      "7) Add dry red chili and curry leaves. Sauté for a few seconds.",
+      "8) Pour the tempering over the chutney and mix lightly.",
+      "9) Serve immediately with idli, dosa, vada, or upma."
+    ],
+    "calories": 120,
+    "servings": 3,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 2,
+    "tags": [
+      "south-indian",
+      "chutney",
+      "vegan",
+      "gluten-free",
+      "side-dish",
+      "dip"
+    ],
+    "created_at": "2025-10-29T04:03:24.406Z"
+  },
+  {
     "id": "9b431377-3c26-46a4-8348-5dc9f806ab05",
     "name": "Sambar",
     "cuisine": "South Indian",

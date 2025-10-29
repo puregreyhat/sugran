@@ -499,12 +499,6 @@
         "amount": 1,
         "unit": "pinch",
         "note": "optional"
-      },
-      {
-        "name": "flour",
-        "amount": 2,
-        "unit": "tbsp",
-        "note": "to help with rolling"
       }
     ],
     "steps": [
@@ -528,7 +522,8 @@
       "traditional",
       "maharashtrian"
     ],
-    "created_at": "2025-10-28T14:57:45.208Z"
+    "created_at": "2025-10-28T14:57:45.208Z",
+    "updated_at": "2025-10-29T03:35:41.998Z"
   },
   {
     "id": "df46dd99-aeaa-46bd-a8ef-093e37f05cda",

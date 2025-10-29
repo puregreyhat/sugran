@@ -1,5 +1,147 @@
 [
   {
+    "id": "4721bb86-d699-4bf2-9a2d-3ce167381e23",
+    "name": "Veg Manchurian",
+    "cuisine": "Chinese",
+    "image_url": "https://media.istockphoto.com/id/694050884/photo/gobi-manchurian-dry-or-with-gravy-popular-street-food-of-india-made-of-cauliflower-florets.jpg?s=612x612&w=0&k=20&c=gOQLqoJeecOQ73x2a3Vu025wH1mFkdVaEoVyJEH7yck= ",
+    "ingredients": [
+      {
+        "name": "cabbage",
+        "amount": 1,
+        "unit": "cup",
+        "note": "finely grated"
+      },
+      {
+        "name": "carrot",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "grated"
+      },
+      {
+        "name": "capsicum",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "finely chopped"
+      },
+      {
+        "name": "spring onions",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped, greens and whites separated"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "corn flour",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for binding"
+      },
+      {
+        "name": "all-purpose flour",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for binding"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 0.75,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for deep frying"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "chili sauce",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "tomato ketchup",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "corn flour slurry",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "mix 1 tbsp corn flour in 3 tbsp water"
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "for sauce consistency"
+      }
+    ],
+    "steps": [
+      "1) In a mixing bowl, combine grated cabbage, carrot, capsicum, and a bit of chopped spring onions.",
+      "2) Add corn flour, maida, soy sauce, pepper, and salt. Mix well and form small balls.",
+      "3) Heat oil in a deep pan and fry the balls in batches until golden and crisp. Remove and drain on paper towels.",
+      "4) For the sauce, heat 1 tbsp oil in a wok.",
+      "5) Add chopped garlic and green chili. Sauté for 30 seconds on high flame.",
+      "6) Add the white part of spring onions and stir-fry briefly.",
+      "7) Add soy sauce, chili sauce, and tomato ketchup. Stir and cook for a few seconds.",
+      "8) Add 1/2 cup water and bring it to a simmer.",
+      "9) Add corn flour slurry to thicken the sauce. Stir continuously until it reaches a glossy, medium-thick consistency.",
+      "10) Add the fried Manchurian balls and toss well to coat them evenly in the sauce.",
+      "11) Garnish with spring onion greens and serve hot with fried rice or noodles."
+    ],
+    "calories": 280,
+    "servings": 3,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "tags": [
+      "chinese",
+      "indo-chinese",
+      "street-food",
+      "main-course",
+      "vegetarian",
+      "spicy"
+    ],
+    "created_at": "2025-10-29T04:07:06.177Z"
+  },
+  {
     "id": "be9b8c51-be7a-441e-bcc3-d9245466383b",
     "name": "Veg Fried Rice",
     "cuisine": "Chinese",

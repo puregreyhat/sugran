@@ -1,5 +1,120 @@
 [
   {
+    "id": "376e8833-20de-4035-85ff-d67d776fcfe4",
+    "name": "Khaman Dhokla",
+    "cuisine": "Indian",
+    "image_url": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/08/khaman-dhokla-recipe-1.jpg",
+    "ingredients": [
+      {
+        "name": "gram flour",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "semolina",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "optional, for texture"
+      },
+      {
+        "name": "yogurt",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "slightly sour"
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "adjust as needed for batter"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "or to taste"
+      },
+      {
+        "name": "eno fruit salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "added before steaming"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "for batter and greasing"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "for tempering"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "slit lengthwise"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 8,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "water",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "to pour over dhokla"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "1) Grease a steaming tray with oil and keep it ready.",
+      "2) In a mixing bowl, combine gram flour, semolina, yogurt, lemon juice, sugar, and salt.",
+      "3) Add water gradually to make a smooth, thick batter. Let it rest for 10–15 minutes.",
+      "4) Heat water in a steamer. Just before steaming, add eno fruit salt to the batter and mix gently.",
+      "5) Pour the batter into the greased tray and steam for 15–20 minutes on medium heat until a toothpick comes out clean.",
+      "6) Allow the dhokla to cool slightly before cutting it into squares.",
+      "7) For tempering, heat oil in a small pan, add mustard seeds, green chilies, and curry leaves. Let them splutter.",
+      "8) Add ¼ cup water and 1 tsp sugar to the tempering, and pour it evenly over the cut dhokla.",
+      "9) Garnish with chopped coriander and serve warm or at room temperature."
+    ],
+    "calories": 150,
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "tags": [
+      "snack",
+      "vegetarian",
+      "steamed",
+      "Indian",
+      "gluten-free"
+    ],
+    "created_at": "2025-10-29T09:24:58.442Z"
+  },
+  {
     "id": "4f04e5ac-4ebb-4f14-88c2-30c4d6b22be9",
     "name": "Peanut Butter Cookies",
     "cuisine": "American",

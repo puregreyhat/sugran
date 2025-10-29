@@ -1,5 +1,50 @@
 [
   {
+    "id": "9999dfd3-1ce4-4dfa-aa15-9004cad786dc",
+    "name": "Jeera Rice",
+    "cuisine": "Indian",
+    "image_url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/12/jeera-rice-recipe-1.jpg",
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "ghee",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Rinse basmati rice until the water runs clear and soak for 15 minutes.",
+      "2) In a pot or pan, heat ghee and add cumin seeds. Let them splutter and turn aromatic.",
+      "3) Add the drained rice and sauté gently for a minute.",
+      "4) Pour in 2 cups of water, add salt if desired, and cook until rice is fluffy and water is absorbed.",
+      "5) Fluff with a fork and serve hot with dal or curry."
+    ],
+    "calories": 280,
+    "servings": 2,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "tags": [
+      "rice",
+      "Indian",
+      "simple",
+      "3-ingredient",
+      "vegan"
+    ],
+    "created_at": "2025-10-29T04:18:34.823Z"
+  },
+  {
     "id": "ccc632c5-e8c2-44aa-a92f-16447436350f",
     "name": "Veg Spring Roll",
     "cuisine": "Chinese",

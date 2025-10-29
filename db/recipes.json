@@ -1,5 +1,111 @@
 [
   {
+    "id": "ccc632c5-e8c2-44aa-a92f-16447436350f",
+    "name": "Veg Spring Roll",
+    "cuisine": "Chinese",
+    "image_url": " https://thumbs.dreamstime.com/b/veg-spring-roll-one-very-famous-snack-item-served-white-plate-schezwan-chutney-usually-lunch-154678141.jpg",
+    "ingredients": [
+      {
+        "name": "spring roll sheets",
+        "amount": 8,
+        "unit": "pcs",
+        "note": "store-bought or homemade"
+      },
+      {
+        "name": "cabbage",
+        "amount": 1,
+        "unit": "cup",
+        "note": "shredded"
+      },
+      {
+        "name": "carrot",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "julienned"
+      },
+      {
+        "name": "capsicum",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "thinly sliced"
+      },
+      {
+        "name": "spring onions",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped, greens and whites separated"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "vinegar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "freshly ground"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for filling + extra for frying"
+      },
+      {
+        "name": "corn flour slurry",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "mix 1 tbsp corn flour in 3 tbsp water for sealing"
+      }
+    ],
+    "steps": [
+      "1) Heat 2 tbsp oil in a wok on high flame.",
+      "2) Add chopped garlic and sauté for 30 seconds until fragrant.",
+      "3) Add spring onion whites, cabbage, carrot, and capsicum. Stir-fry for 2–3 minutes on high heat.",
+      "4) Add soy sauce, vinegar, black pepper, and salt. Mix well and stir-fry for another minute.",
+      "5) Turn off heat, add spring onion greens, and let the filling cool completely.",
+      "6) Place a spring roll sheet on a flat surface with a corner facing you (diamond shape).",
+      "7) Add 2 tbsp of vegetable filling near the bottom corner, fold the bottom over the filling, then fold in both sides.",
+      "8) Roll tightly and seal the edge with corn flour slurry.",
+      "9) Repeat for all spring rolls and keep covered with a damp cloth.",
+      "10) Heat oil in a deep pan and fry the rolls in batches on medium flame until golden and crisp.",
+      "11) Drain on paper towels and serve hot with chili sauce or schezwan dip."
+    ],
+    "calories": 280,
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "tags": [
+      "chinese",
+      "starter",
+      "snack",
+      "street-food",
+      "crispy",
+      "vegetarian"
+    ],
+    "created_at": "2025-10-29T04:17:48.363Z"
+  },
+  {
     "id": "14222297-fcb0-4dcd-b81b-87404b9eecd6",
     "name": "Chicken Fried Rice",
     "cuisine": "Chinese",

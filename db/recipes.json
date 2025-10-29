@@ -1,5 +1,142 @@
 [
   {
+    "id": "deecd685-2043-47cb-986f-2c5dbafcf55e",
+    "name": "Gobi Manchurian",
+    "cuisine": "Chinese",
+    "image_url": "https://www.hookedonheat.com/wp-content/uploads/2006/03/Gobi-Manchurian-HOHV.jpg",
+    "ingredients": [
+      {
+        "name": "cauliflower florets",
+        "amount": 2,
+        "unit": "cups",
+        "note": "cut into medium pieces"
+      },
+      {
+        "name": "all-purpose flour",
+        "amount": 4,
+        "unit": "tbsp",
+        "note": "for batter"
+      },
+      {
+        "name": "corn flour",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "for batter"
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 0.75,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "chili sauce",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "tomato ketchup",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "vinegar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "cubed"
+      },
+      {
+        "name": "capsicum",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "cubed"
+      },
+      {
+        "name": "spring onions",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for garnish"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for deep frying"
+      },
+      {
+        "name": "water",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "for making batter"
+      },
+      {
+        "name": "corn flour slurry",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "mix 1 tbsp corn flour in 3 tbsp water"
+      }
+    ],
+    "steps": [
+      "1) Boil water in a pot with a pinch of salt. Add cauliflower florets and blanch for 2 minutes. Drain and pat dry.",
+      "2) In a bowl, mix maida, corn flour, salt, pepper, soy sauce, and a little water to form a thick batter.",
+      "3) Dip cauliflower florets in the batter and coat evenly.",
+      "4) Heat oil in a deep pan and fry the coated florets on medium heat until golden and crisp. Remove and drain on tissue paper.",
+      "5) In a separate wok, heat 1 tbsp oil.",
+      "6) Add chopped garlic and green chilies, sauté for 30 seconds until fragrant.",
+      "7) Add onions and capsicum. Stir-fry on high flame for 2–3 minutes.",
+      "8) Add soy sauce, chili sauce, tomato ketchup, and vinegar. Mix well.",
+      "9) Add 1/4 cup water and bring the sauce to a boil.",
+      "10) Stir in corn flour slurry and cook until sauce thickens slightly.",
+      "11) Add fried cauliflower pieces and toss well until coated with sauce.",
+      "12) Garnish with chopped spring onions and serve hot as a snack or side dish."
+    ],
+    "calories": 310,
+    "servings": 3,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "tags": [
+      "chinese",
+      "indo-chinese",
+      "starter",
+      "spicy",
+      "street-food",
+      "vegetarian"
+    ],
+    "created_at": "2025-10-29T04:12:19.628Z"
+  },
+  {
     "id": "e4822d19-d72f-43b5-94b5-ddfd2c8f3ad7",
     "name": "Chilli Paneer",
     "cuisine": "Chinese",

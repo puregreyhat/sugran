@@ -1,5 +1,49 @@
 [
   {
+    "id": "4f04e5ac-4ebb-4f14-88c2-30c4d6b22be9",
+    "name": "Peanut Butter Cookies",
+    "cuisine": "American",
+    "image_url": "https://www.livewellbakeoften.com/wp-content/uploads/2020/07/3-Ingredient-Peanut-Butter-Cookies-7.jpg",
+    "ingredients": [
+      {
+        "name": "peanut butter",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "sugar",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "egg",
+        "amount": 1,
+        "unit": "pcs",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Preheat oven to 180°C (350°F) and line a baking tray with parchment paper.",
+      "2) In a bowl, mix peanut butter, sugar, and egg until a smooth dough forms.",
+      "3) Roll small balls of dough, place on the tray, and flatten gently with a fork in a criss-cross pattern.",
+      "4) Bake for 8–10 minutes until edges turn golden.",
+      "5) Cool on a wire rack before serving."
+    ],
+    "calories": 210,
+    "servings": 6,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "tags": [
+      "dessert",
+      "3-ingredient",
+      "baking",
+      "gluten-free"
+    ],
+    "created_at": "2025-10-29T04:19:37.772Z"
+  },
+  {
     "id": "f63a1f84-1091-421d-9cff-957ffb744a43",
     "name": "Chilli Garlic Noodles",
     "cuisine": "Chinese",

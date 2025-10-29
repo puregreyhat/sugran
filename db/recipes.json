@@ -3,7 +3,7 @@
     "id": "376e8833-20de-4035-85ff-d67d776fcfe4",
     "name": "Khaman Dhokla",
     "cuisine": "Indian",
-    "image_url": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/08/khaman-dhokla-recipe-1.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwIS1yE1jjbnzjaT_ZcdO8K_-vUDKB9cTDA&s",
     "ingredients": [
       {
         "name": "gram flour",
@@ -112,7 +112,8 @@
       "Indian",
       "gluten-free"
     ],
-    "created_at": "2025-10-29T09:24:58.442Z"
+    "created_at": "2025-10-29T09:24:58.442Z",
+    "updated_at": "2025-10-29T10:30:38.178Z"
   },
   {
     "id": "4f04e5ac-4ebb-4f14-88c2-30c4d6b22be9",

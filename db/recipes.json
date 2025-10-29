@@ -1,5 +1,108 @@
 [
   {
+    "id": "f63a1f84-1091-421d-9cff-957ffb744a43",
+    "name": "Chilli Garlic Noodles",
+    "cuisine": "Chinese",
+    "image_url": " https://thefoodiediaries.co/wp-content/uploads/2024/12/img_8633-2-1-731x1024.jpg",
+    "ingredients": [
+      {
+        "name": "hakka noodles",
+        "amount": 150,
+        "unit": "grams",
+        "note": "boiled and drained"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.5,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "dry red chilies",
+        "amount": 3,
+        "unit": "pcs",
+        "note": "broken into pieces"
+      },
+      {
+        "name": "spring onions",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped, greens and whites separated"
+      },
+      {
+        "name": "capsicum",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "thinly sliced"
+      },
+      {
+        "name": "carrot",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "julienned"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "vinegar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "chili sauce",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to spice level"
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "freshly ground"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "preferably sesame or vegetable oil"
+      }
+    ],
+    "steps": [
+      "1) Boil noodles as per instructions until just cooked. Drain and rinse with cold water. Toss with 1 tsp oil to prevent sticking.",
+      "2) Heat oil in a wok on high flame.",
+      "3) Add dry red chilies and chopped garlic. Stir-fry for 30 seconds until fragrant and slightly crisp.",
+      "4) Add spring onion whites, carrot, and capsicum. Stir-fry on high heat for 2–3 minutes.",
+      "5) Add soy sauce, vinegar, chili sauce, salt, and black pepper. Mix well.",
+      "6) Add boiled noodles and toss everything together quickly on high heat to coat evenly in sauces.",
+      "7) Add spring onion greens and give a final toss.",
+      "8) Serve hot immediately with extra chili sauce on the side."
+    ],
+    "calories": 335,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "chinese",
+      "noodles",
+      "spicy",
+      "street-food",
+      "quick-meal",
+      "vegan"
+    ],
+    "created_at": "2025-10-29T04:19:15.182Z"
+  },
+  {
     "id": "9999dfd3-1ce4-4dfa-aa15-9004cad786dc",
     "name": "Jeera Rice",
     "cuisine": "Indian",

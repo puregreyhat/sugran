@@ -1,5 +1,121 @@
 [
   {
+    "id": "78cbc2f2-17a9-4ab1-b2cb-545cfe2e0311",
+    "name": "Veg Hakka Noodles",
+    "cuisine": "Chinese",
+    "image_url": "https://www.sharmispassions.com/wp-content/uploads/2012/09/hakkanoodles_step15.jpg",
+    "ingredients": [
+      {
+        "name": "hakka noodles",
+        "amount": 150,
+        "unit": "grams",
+        "note": "boiled and drained"
+      },
+      {
+        "name": "carrot",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "julienned"
+      },
+      {
+        "name": "capsicum",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "thinly sliced"
+      },
+      {
+        "name": "cabbage",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "shredded"
+      },
+      {
+        "name": "beans",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "thinly sliced"
+      },
+      {
+        "name": "spring onions",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "chopped, greens and whites separated"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chilies",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "slit, optional"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "vinegar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "chili sauce",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "black pepper powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "freshly ground"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "adjust to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 1.5,
+        "unit": "tbsp",
+        "note": "preferably sesame or vegetable oil"
+      }
+    ],
+    "steps": [
+      "1) Boil noodles as per packet instructions until just cooked (al dente). Drain and rinse with cold water to stop cooking.",
+      "2) Toss noodles with 1 tsp oil to prevent sticking and set aside.",
+      "3) Heat oil in a wok on high flame.",
+      "4) Add chopped garlic and slit green chili. Stir-fry for 20 seconds until fragrant.",
+      "5) Add the white part of spring onions and all chopped vegetables. Stir-fry on high heat for 2–3 minutes, keeping them crisp.",
+      "6) Add soy sauce, vinegar, chili sauce, black pepper, and salt. Mix well.",
+      "7) Add the boiled noodles and toss everything together using tongs or chopsticks for 1–2 minutes on high flame.",
+      "8) Add spring onion greens, mix again, and turn off the flame.",
+      "9) Serve hot immediately with chili sauce or manchurian gravy."
+    ],
+    "calories": 340,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "chinese",
+      "noodles",
+      "street-food",
+      "quick-meal",
+      "vegan",
+      "spicy"
+    ],
+    "created_at": "2025-10-29T04:13:31.922Z"
+  },
+  {
     "id": "deecd685-2043-47cb-986f-2c5dbafcf55e",
     "name": "Gobi Manchurian",
     "cuisine": "Chinese",

@@ -1,5 +1,48 @@
 [
   {
+    "id": "f9321df3-3404-4a2d-8cb5-6971eb2001bc",
+    "name": "Lemon Sherbet (Nimbu Sharbat)",
+    "cuisine": "Indian",
+    "image_url": "https://s3-us-east-2.amazonaws.com/production-sfc-web-app/recipe_images/images/000/000/788/original/Indian_Lemonade.jpg?1733857448",
+    "ingredients": [
+      {
+        "name": "fresh lemon juice",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "from about 1 large lemon"
+      },
+      {
+        "name": "sugar",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "water",
+        "amount": 1,
+        "unit": "cup",
+        "note": "chilled"
+      }
+    ],
+    "steps": [
+      "1) In a glass, mix lemon juice and sugar.",
+      "2) Add chilled water and stir until sugar fully dissolves.",
+      "3) Optionally add a pinch of salt or black salt for tanginess.",
+      "4) Serve immediately with ice cubes and a slice of lemon."
+    ],
+    "calories": 90,
+    "servings": 1,
+    "prep_time_minutes": 2,
+    "cook_time_minutes": null,
+    "tags": [
+      "beverage",
+      "summer",
+      "refreshing",
+      "3-ingredient"
+    ],
+    "created_at": "2025-11-08T06:50:19.186Z"
+  },
+  {
     "id": "376e8833-20de-4035-85ff-d67d776fcfe4",
     "name": "Khaman Dhokla",
     "cuisine": "Indian",

@@ -2369,7 +2369,7 @@
         "note": "adjust as per spice preference"
       },
       {
-        "name": "garlic cloves",
+        "name": "garlic",
         "amount": 6,
         "unit": "pcs",
         "note": null
@@ -2418,7 +2418,8 @@
       "chutney",
       "maharashtrian"
     ],
-    "created_at": "2025-10-28T14:55:59.838Z"
+    "created_at": "2025-10-28T14:55:59.838Z",
+    "updated_at": "2025-11-09T16:00:29.512Z"
   },
   {
     "id": "8ee2085f-0dbd-4b7d-be78-372d592327d1",

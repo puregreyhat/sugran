@@ -401,12 +401,6 @@
         "note": "for syrup"
       },
       {
-        "name": "water",
-        "amount": 3,
-        "unit": "cups",
-        "note": "for syrup"
-      },
-      {
         "name": "sugar",
         "amount": 3,
         "unit": "tbsp",
@@ -456,7 +450,8 @@
       "milk-based",
       "festive"
     ],
-    "created_at": "2025-11-12T16:52:03.973Z"
+    "created_at": "2025-11-12T16:52:03.973Z",
+    "updated_at": "2025-11-12T17:13:03.323Z"
   },
   {
     "id": "631f7233-77ba-4c0f-87d6-b6d111b771c9",

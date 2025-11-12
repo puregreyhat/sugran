@@ -1,5 +1,68 @@
 [
   {
+    "id": "7570e158-2967-4587-8ca9-f1ac2842f24c",
+    "name": "Besan Ladoo",
+    "cuisine": "Indian",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjcPCefeQK8R-OgjN2SDqA5grMXQqW1W5iFuTbZc2n6bEyvZA2aeHyzNxkiluS0tRmE1lWXJ9ZPf86MhtfjtvwTDeFe0lqyFBjLN8tBvL40nE4JJsPrZ3AKkazP6kLI6qynxOp6WcthnkC/s1600-rw/Besan+Ladoo+Recipe+Festive+Sweet+4.jpg",
+    "ingredients": [
+      {
+        "name": "besan",
+        "amount": 1.5,
+        "unit": "cups",
+        "note": "coarse variety preferred"
+      },
+      {
+        "name": "ghee",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "powdered sugar",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "cardamom powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "chopped cashews",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "chopped almonds",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Heat ghee in a heavy pan over low flame. Add besan and roast slowly, stirring continuously to avoid lumps.",
+      "2) Continue roasting for 15–20 minutes until the besan turns golden brown and gives a nutty aroma.",
+      "3) Turn off the heat and let it cool slightly (lukewarm).",
+      "4) Add powdered sugar, cardamom powder, and chopped nuts. Mix well until the mixture binds together.",
+      "5) Shape into round ladoos while the mixture is still warm.",
+      "6) Let them cool completely before storing in an airtight container."
+    ],
+    "calories": 200,
+    "servings": 10,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "tags": [
+      "indian-dessert",
+      "sweet",
+      "festive",
+      "traditional"
+    ],
+    "created_at": "2025-11-12T16:54:20.340Z"
+  },
+  {
     "id": "d2fc198e-934b-4a89-abc6-e6b9b3bcc5a4",
     "name": "Kheer (Rice Pudding)",
     "cuisine": "Indian",

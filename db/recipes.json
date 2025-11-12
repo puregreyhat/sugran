@@ -1,5 +1,119 @@
 [
   {
+    "id": "f1aa3398-ab0b-4a70-be8d-ac9cfaa034b0",
+    "name": "Paneer Butter Masala",
+    "cuisine": "North Indian",
+    "image_url": "https://t3.ftcdn.net/jpg/02/28/28/22/360_F_228282257_CmwCG8Gxt0mOypQJ9UdflnXba5JJth2v.jpg",
+    "ingredients": [
+      {
+        "name": "paneer",
+        "amount": 200,
+        "unit": "grams",
+        "note": "cubed."
+      },
+      {
+        "name": "butter",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for richness."
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pc",
+        "note": "finely chopped."
+      },
+      {
+        "name": "tomato",
+        "amount": 3,
+        "unit": "pcs",
+        "note": "pureed."
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "cashews",
+        "amount": 10,
+        "unit": "pcs",
+        "note": "soaked and ground to paste."
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "kasuri methi",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "crushed."
+      },
+      {
+        "name": "fresh cream",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for garnish."
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste."
+      },
+      {
+        "name": "water",
+        "amount": 1,
+        "unit": "cup",
+        "note": "adjust for gravy consistency."
+      }
+    ],
+    "steps": [
+      "Heat oil and 1 tbsp butter in a pan. Add onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree and cook until the mixture thickens and oil separates.",
+      "Add cashew paste, red chili powder, turmeric, salt, and garam masala. Cook for 3–4 minutes.",
+      "Pour water to adjust consistency and bring to a simmer.",
+      "Add paneer cubes and cook for 5 minutes on low flame.",
+      "Stir in remaining butter, cream, and crushed kasuri methi.",
+      "Serve hot with naan, roti, or jeera rice."
+    ],
+    "calories": 420,
+    "servings": 3,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "tags": [
+      "main-course",
+      "north-indian",
+      "rich",
+      "vegetarian",
+      "restaurant-style"
+    ],
+    "created_at": "2025-11-12T16:05:29.498Z"
+  },
+  {
     "id": "1f95f68d-15e4-4b4b-b235-26a28ececbe1",
     "name": "Rajma Chawal",
     "cuisine": "North Indian",

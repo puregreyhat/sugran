@@ -1,5 +1,87 @@
 [
   {
+    "id": "2ecab705-f170-420b-bbb2-393ffef6322c",
+    "name": "Methi Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://www.funfoodfrolic.com/wp-content/uploads/2022/01/Thepla-Blog-Thumbnail.jpg",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough"
+      },
+      {
+        "name": "fresh methi leaves",
+        "amount": 1,
+        "unit": "cup",
+        "note": "washed and finely chopped"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for cooking"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "for kneading dough"
+      }
+    ],
+    "steps": [
+      "1) In a large mixing bowl, combine chopped methi leaves, green chili, cumin seeds, red chili powder, turmeric, and salt.",
+      "2) Add whole wheat flour to the mixture and mix well with your hands.",
+      "3) Gradually add water to form a soft, pliable dough. Rest it for 10–15 minutes.",
+      "4) Divide the dough into equal balls and roll each into a round paratha (6–7 inches in diameter).",
+      "5) Heat a tawa and cook the paratha on both sides using oil or ghee until golden brown spots appear.",
+      "6) Serve hot with curd, pickle, or butter."
+    ],
+    "calories": 270,
+    "servings": 2,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "tags": [
+      "paratha",
+      "vegetarian",
+      "healthy",
+      "north-indian",
+      "leafy-greens"
+    ],
+    "created_at": "2025-11-12T16:44:02.322Z"
+  },
+  {
     "id": "6f8a9f21-24b2-45cf-9cf3-9a2843cd8277",
     "name": "Mooli Paratha",
     "cuisine": "North Indian",

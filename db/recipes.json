@@ -1,5 +1,93 @@
 [
   {
+    "id": "bb69b55a-3575-4031-a10f-26d3a9117fbe",
+    "name": "Pyaaz Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://i.ytimg.com/vi/j1ysHA9WFtA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAo-H3M1FlX3bs-9iHP6_xMhv7FNA",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough"
+      },
+      {
+        "name": "onion",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "coriander leaves",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "carom seeds",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "amchur",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "optional"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for cooking"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "for kneading dough"
+      }
+    ],
+    "steps": [
+      "1) Mix whole wheat flour, salt, and enough water to knead a soft dough. Rest for 10–15 minutes.",
+      "2) In a bowl, combine chopped onions, green chili, coriander, ajwain, red chili powder, amchur, and salt to make the stuffing.",
+      "3) Divide dough and stuffing into equal portions.",
+      "4) Roll one dough ball slightly, place stuffing in the center, and seal the edges.",
+      "5) Roll gently into a round paratha (about 6 inches).",
+      "6) Heat a tawa and cook paratha on both sides with oil or ghee until golden and crisp.",
+      "7) Serve hot with curd, butter, or pickle."
+    ],
+    "calories": 310,
+    "servings": 2,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "tags": [
+      "stuffed-paratha",
+      "vegetarian",
+      "north-indian",
+      "spicy"
+    ],
+    "created_at": "2025-11-12T16:44:39.008Z"
+  },
+  {
     "id": "2ecab705-f170-420b-bbb2-393ffef6322c",
     "name": "Methi Paratha",
     "cuisine": "North Indian",

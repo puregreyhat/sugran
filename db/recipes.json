@@ -575,12 +575,6 @@
         "amount": 3,
         "unit": "tbsp",
         "note": "for dough and layering"
-      },
-      {
-        "name": "water",
-        "amount": 0.5,
-        "unit": "cup",
-        "note": "as required to knead"
       }
     ],
     "steps": [
@@ -602,7 +596,8 @@
       "street-food",
       "flaky"
     ],
-    "created_at": "2025-11-12T16:48:41.587Z"
+    "created_at": "2025-11-12T16:48:41.587Z",
+    "updated_at": "2025-11-12T17:12:47.563Z"
   },
   {
     "id": "91e7b585-5667-42b0-a51f-fce424eabd29",

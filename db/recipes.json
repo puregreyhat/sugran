@@ -1,5 +1,87 @@
 [
   {
+    "id": "19cd4c2d-3a52-44b1-9fb0-bd3aeb0f6a67",
+    "name": "Rasmalai",
+    "cuisine": "Indian",
+    "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_960,w_960//InstamartAssets/rasmalai%20(1).webp?updatedAt=1727156174218",
+    "ingredients": [
+      {
+        "name": "milk",
+        "amount": 1,
+        "unit": "liter",
+        "note": "full fat"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "mixed with 2 tbsp water"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "cup",
+        "note": "for syrup"
+      },
+      {
+        "name": "water",
+        "amount": 3,
+        "unit": "cups",
+        "note": "for syrup"
+      },
+      {
+        "name": "sugar",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "saffron strands",
+        "amount": 10,
+        "unit": "pcs",
+        "note": "soaked in warm milk"
+      },
+      {
+        "name": "cardamom powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "chopped pistachios",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "chopped almonds",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Boil milk in a heavy pan. When it starts boiling, add diluted lemon juice gradually and stir until milk curdles.",
+      "2) Drain the curds using a muslin cloth, rinse with cold water, and hang for 30 minutes to remove excess whey — this forms the chenna.",
+      "3) Knead the chenna gently into a smooth dough and shape into small flat discs.",
+      "4) In a wide pan, boil 3 cups of water with 1 cup sugar. Drop the discs in and cook covered for 12–15 minutes until they double in size.",
+      "5) In another pan, boil 500 ml milk until slightly thickened. Add saffron, sugar (3 tbsp), and cardamom powder. Simmer for 5 minutes.",
+      "6) Squeeze the cooked rasgullas gently to remove syrup and transfer into the warm saffron milk.",
+      "7) Garnish with chopped almonds and pistachios. Chill before serving."
+    ],
+    "calories": 280,
+    "servings": 4,
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 45,
+    "tags": [
+      "indian-dessert",
+      "bengali",
+      "milk-based",
+      "festive"
+    ],
+    "created_at": "2025-11-12T16:52:03.973Z"
+  },
+  {
     "id": "631f7233-77ba-4c0f-87d6-b6d111b771c9",
     "name": "Gulab Jamun",
     "cuisine": "Indian",

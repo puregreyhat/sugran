@@ -1,5 +1,80 @@
 [
   {
+    "id": "feb48dc1-6dd2-4192-983d-7a0f204dd192",
+    "name": "No-Bake Cheesecake",
+    "cuisine": "Western",
+    "image_url": "https://bakewithshivesh.com/wp-content/uploads/2022/02/IMG_5159-scaled.jpg",
+    "ingredients": [
+      {
+        "name": "digestive biscuits",
+        "amount": 1,
+        "unit": "cup",
+        "note": "crushed"
+      },
+      {
+        "name": "butter",
+        "amount": 4,
+        "unit": "tbsp",
+        "note": "melted"
+      },
+      {
+        "name": "cream cheese",
+        "amount": 1,
+        "unit": "cup",
+        "note": "softened"
+      },
+      {
+        "name": "powdered sugar",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "whipping cream",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "whipped to soft peaks"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "fruit topping or compote",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "optional, for garnish"
+      }
+    ],
+    "steps": [
+      "1) Mix crushed biscuits and melted butter until combined. Press into the base of a springform pan to form the crust. Chill for 20 minutes.",
+      "2) In a bowl, beat cream cheese, sugar, vanilla extract, and lemon juice until smooth and creamy.",
+      "3) Gently fold in the whipped cream until fully incorporated.",
+      "4) Pour the mixture over the chilled crust and smooth the top with a spatula.",
+      "5) Cover and refrigerate for at least 4–5 hours (or overnight) until firm.",
+      "6) Top with fruit compote or sauce before serving."
+    ],
+    "calories": 320,
+    "servings": 6,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": null,
+    "tags": [
+      "dessert",
+      "western",
+      "no-bake",
+      "creamy"
+    ],
+    "created_at": "2025-11-12T16:58:53.272Z"
+  },
+  {
     "id": "d60560a7-1042-4ae7-94e3-87b69f368799",
     "name": "Chocolate Mousse",
     "cuisine": "Western",

@@ -3,7 +3,7 @@
     "id": "1f95f68d-15e4-4b4b-b235-26a28ececbe1",
     "name": "Rajma Chawal",
     "cuisine": "North Indian",
-    "image_url": "https://static.vecteezy.com/system/resources/thumbnails/027/489/090/small_2x/rajma-chawal-a-traditional-indian-meal-made-of-red-kidney-beans-cooked-in-a-spicy-gravy-and-served-with-rice-photo.jpg",
+    "image_url": "https://thumbs.dreamstime.com/b/rajma-chawal-rajma-jeera-chawal-rice-traditional-north-indian-food-consisting-cooked-red-kidney-beans-thick-gravy-195487621.jpg-beans-cooked-in-a-spicy-gravy-and-served-with-rice-photo.jpg",
     "ingredients": [
       {
         "name": "rajma",
@@ -111,7 +111,8 @@
       "vegetarian",
       "protein-rich"
     ],
-    "created_at": "2025-11-12T16:00:15.132Z"
+    "created_at": "2025-11-12T16:00:15.132Z",
+    "updated_at": "2025-11-12T16:01:40.809Z"
   },
   {
     "id": "63421147-9487-4aa6-93f0-5959281a9ff0",

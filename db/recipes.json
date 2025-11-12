@@ -1,5 +1,93 @@
 [
   {
+    "id": "53e429e9-0813-4a90-af28-f818ba74a7ed",
+    "name": "Gobi Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://www.funfoodfrolic.com/wp-content/uploads/2024/04/Gobi-Paratha-Blog.jpg",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough"
+      },
+      {
+        "name": "cauliflower",
+        "amount": 1.5,
+        "unit": "cups",
+        "note": "grated"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "grated"
+      },
+      {
+        "name": "coriander leaves",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "ajwain",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": "optional, aids digestion"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for cooking"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "for kneading dough"
+      }
+    ],
+    "steps": [
+      "1) In a bowl, mix wheat flour, a pinch of salt, and water. Knead into a soft dough and rest for 10 minutes.",
+      "2) In another bowl, mix grated cauliflower, green chili, ginger, coriander leaves, red chili powder, ajwain, and salt to prepare the filling.",
+      "3) Divide dough and filling into equal portions.",
+      "4) Roll one dough ball slightly, place the stuffing in the center, and bring the edges together to seal.",
+      "5) Roll gently into a round paratha about 6 inches in diameter.",
+      "6) Heat a tawa and cook the paratha on both sides with oil or ghee until golden brown spots appear.",
+      "7) Serve hot with curd, butter, or pickle."
+    ],
+    "calories": 310,
+    "servings": 2,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "tags": [
+      "stuffed-paratha",
+      "vegetarian",
+      "breakfast",
+      "north-indian"
+    ],
+    "created_at": "2025-11-12T16:42:39.188Z"
+  },
+  {
     "id": "07ac2b33-89e8-4c04-9d97-c0bc119f7e30",
     "name": "Paneer Paratha",
     "cuisine": "North Indian",

@@ -1,5 +1,69 @@
 [
   {
+    "id": "df491487-18dc-4d99-8e93-de27206305fb",
+    "name": "Malabar Parotta",
+    "cuisine": "South Indian",
+    "image_url": "https://www.chefkunalkapur.com/wp-content/uploads/2021/05/Malabar-Paratha-1300x867.jpg?v=1620281813",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": null
+      },
+      {
+        "name": "milk",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "lukewarm"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "for dough and layering"
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "as required to knead"
+      }
+    ],
+    "steps": [
+      "1) In a large bowl, combine maida, sugar, and salt. Add lukewarm milk and water gradually to knead a soft, elastic dough.",
+      "2) Add 1 tbsp oil and knead again for a few minutes. Cover and rest for at least 1 hour.",
+      "3) Divide the dough into equal balls and coat each with oil. Let rest for another 15 minutes.",
+      "4) Roll one dough ball as thin as possible (almost transparent). Brush with oil, then fold or pleat it like a fan.",
+      "5) Coil the pleated dough into a spiral, flatten slightly, and roll gently again into a thick parotta.",
+      "6) Heat a tawa or griddle and cook each parotta on both sides with oil until golden and flaky.",
+      "7) Lightly crush the parotta between your hands to separate layers. Serve hot with vegetable kurma or chicken curry."
+    ],
+    "calories": 300,
+    "servings": 2,
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "tags": [
+      "layered-paratha",
+      "south-indian",
+      "street-food",
+      "flaky"
+    ],
+    "created_at": "2025-11-12T16:48:41.587Z"
+  },
+  {
     "id": "91e7b585-5667-42b0-a51f-fce424eabd29",
     "name": "Lachha Paratha",
     "cuisine": "North Indian",

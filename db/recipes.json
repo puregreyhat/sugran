@@ -3,7 +3,7 @@
     "id": "0c475df7-247d-4a79-942f-a7bc866764cd",
     "name": "Aloo Paratha",
     "cuisine": "North Indian",
-    "image_url": "https://static.vecteezy.com/system/resources/thumbnails/017/117/558/small_2x/aloo-paratha-or-indian-potato-stuffed-flatbread-served-with-butter-and-curd-photo.jpg",
+    "image_url": "https://static.vecteezy.com/system/resources/thumbnails/046/504/585/small/indian-aloo-paratha-bread-with-potato-photo.jpg",
     "ingredients": [
       {
         "name": "whole wheat flour",
@@ -92,7 +92,8 @@
       "vegetarian",
       "comfort-food"
     ],
-    "created_at": "2025-11-12T16:06:33.121Z"
+    "created_at": "2025-11-12T16:06:33.121Z",
+    "updated_at": "2025-11-12T16:07:31.732Z"
   },
   {
     "id": "f1aa3398-ab0b-4a70-be8d-ac9cfaa034b0",

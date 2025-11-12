@@ -1,5 +1,119 @@
 [
   {
+    "id": "1f95f68d-15e4-4b4b-b235-26a28ececbe1",
+    "name": "Rajma Chawal",
+    "cuisine": "North Indian",
+    "image_url": "https://static.vecteezy.com/system/resources/thumbnails/027/489/090/small_2x/rajma-chawal-a-traditional-indian-meal-made-of-red-kidney-beans-cooked-in-a-spicy-gravy-and-served-with-rice-photo.jpg",
+    "ingredients": [
+      {
+        "name": "rajma",
+        "amount": 1,
+        "unit": "cup",
+        "note": "soaked overnight."
+      },
+      {
+        "name": "onion",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "finely chopped."
+      },
+      {
+        "name": "tomato",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "pureed."
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "for tempering."
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste."
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for cooking."
+      },
+      {
+        "name": "water",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for gravy."
+      },
+      {
+        "name": "coriander leaves",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "for garnish."
+      },
+      {
+        "name": "cooked basmati rice",
+        "amount": 2,
+        "unit": "cups",
+        "note": "to serve with rajma."
+      }
+    ],
+    "steps": [
+      "Soak rajma overnight and pressure cook with salt until soft (4-5 whistles).",
+      "Heat oil in a pan, add cumin seeds and let them splutter.",
+      "Add chopped onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree, turmeric, chili, coriander powder, and garam masala. Cook until oil separates.",
+      "Add boiled rajma with its water and simmer for 15–20 minutes until thick and flavorful.",
+      "Mash some rajma for a thicker consistency if desired.",
+      "Garnish with coriander leaves and serve hot with steamed rice."
+    ],
+    "calories": 380,
+    "servings": 3,
+    "prep_time_minutes": 480,
+    "cook_time_minutes": 35,
+    "tags": [
+      "main-course",
+      "north-indian",
+      "comfort-food",
+      "vegetarian",
+      "protein-rich"
+    ],
+    "created_at": "2025-11-12T16:00:15.132Z"
+  },
+  {
     "id": "63421147-9487-4aa6-93f0-5959281a9ff0",
     "name": "Chole",
     "cuisine": "North Indian",

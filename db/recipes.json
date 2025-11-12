@@ -1,5 +1,87 @@
 [
   {
+    "id": "6f8a9f21-24b2-45cf-9cf3-9a2843cd8277",
+    "name": "Mooli Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://i0.wp.com/swatisani.net/kitchen/wp-content/uploads/2025/03/Mooli-Paratha.jpg?fit=1365%2C1024&ssl=1",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough"
+      },
+      {
+        "name": "white radish",
+        "amount": 1.5,
+        "unit": "cups",
+        "note": "grated and squeezed to remove excess water"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "coriander leaves",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "ajwain",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for cooking"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "for kneading dough"
+      }
+    ],
+    "steps": [
+      "1) Prepare dough by mixing wheat flour, salt, and water. Knead into a soft dough and rest for 10–15 minutes.",
+      "2) Grate radish and squeeze out the excess water completely to avoid soggy parathas.",
+      "3) In a bowl, mix grated radish, green chili, coriander, ajwain, red chili powder, and salt to make the stuffing.",
+      "4) Divide dough and stuffing into equal portions.",
+      "5) Roll out a small dough ball, place stuffing in the center, seal, and roll gently into a round paratha.",
+      "6) Cook on a hot tawa using oil or ghee until golden brown on both sides.",
+      "7) Serve hot with curd, butter, or pickle."
+    ],
+    "calories": 300,
+    "servings": 2,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "tags": [
+      "stuffed-paratha",
+      "vegetarian",
+      "winter-special",
+      "north-indian"
+    ],
+    "created_at": "2025-11-12T16:43:25.663Z"
+  },
+  {
     "id": "53e429e9-0813-4a90-af28-f818ba74a7ed",
     "name": "Gobi Paratha",
     "cuisine": "North Indian",

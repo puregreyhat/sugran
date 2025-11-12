@@ -1,5 +1,99 @@
 [
   {
+    "id": "349ddb11-42bb-44e2-acc8-b9fa85f1027b",
+    "name": "Sattu Paratha",
+    "cuisine": "Bihari",
+    "image_url": "https://1.bp.blogspot.com/-WXfMQtngQfY/Xn-JQvI5p2I/AAAAAAAAJWY/PpgERadvp-49oW7snj7BSV6I-XFEoKczwCLcBGAsYHQ/s1600/Sattu%2BKa%2BParatha.JPG",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough"
+      },
+      {
+        "name": "sattu",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "grated"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "mustard oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "adds authentic flavor"
+      },
+      {
+        "name": "ajwain",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "for kneading dough"
+      },
+      {
+        "name": "ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for roasting parathas"
+      }
+    ],
+    "steps": [
+      "1) In a bowl, mix whole wheat flour and water to knead a soft dough. Cover and rest for 10–15 minutes.",
+      "2) In another bowl, combine sattu, onion, green chili, ginger, lemon juice, mustard oil, ajwain, and salt. Mix well — the filling should be slightly moist but crumbly.",
+      "3) Divide the dough and filling into equal portions.",
+      "4) Roll one dough ball slightly, place the sattu filling in the center, and seal the edges tightly.",
+      "5) Roll gently into a round paratha (6–7 inches in diameter).",
+      "6) Cook on a tawa with ghee on both sides until golden and crisp.",
+      "7) Serve hot with curd, pickle, or chokha (mashed spiced vegetables)."
+    ],
+    "calories": 310,
+    "servings": 2,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "tags": [
+      "stuffed-paratha",
+      "bihari",
+      "vegetarian",
+      "protein-rich"
+    ],
+    "created_at": "2025-11-12T16:46:48.655Z"
+  },
+  {
     "id": "67420ab9-77a5-47a3-94a6-d94aca9772a5",
     "name": "Keema Paratha",
     "cuisine": "North Indian",

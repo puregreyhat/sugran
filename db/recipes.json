@@ -1,7 +1,7 @@
 [
   {
     "id": "05dfc46c-5d08-443c-9fb3-2d11cd0c05c8",
-    "name": "North Indian Recipes",
+    "name": "Chole",
     "cuisine": "unknown",
     "image_url": "https://static.vecteezy.com/system/resources/thumbnails/015/933/617/small/chole-bhature-is-a-north-indian-food-dish-a-combination-of-chana-masala-and-bhatura-or-puri-free-photo.jpg",
     "ingredients": [],
@@ -12,7 +12,7 @@
     "cook_time_minutes": null,
     "tags": [],
     "created_at": "2025-11-12T15:33:33.966Z",
-    "updated_at": "2025-11-12T15:33:52.581Z"
+    "updated_at": "2025-11-12T15:34:07.894Z"
   },
   {
     "id": "f9321df3-3404-4a2d-8cb5-6971eb2001bc",

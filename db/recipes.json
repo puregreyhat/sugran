@@ -1407,16 +1407,10 @@
         "amount": null,
         "unit": "as needed",
         "note": "for roasting."
-      },
-      {
-        "name": "water",
-        "amount": null,
-        "unit": "as needed",
-        "note": "for kneading dough."
       }
     ],
     "steps": [
-      "In a bowl, add wheat flour, a pinch of salt, and water. Knead into a soft dough and rest for 15 minutes.",
+      "In a bowl, add wheat flour, a pinch of salt, and water(as needed). Knead into a soft dough and rest for 15 minutes.",
       "In another bowl, mix mashed potatoes, green chilies, coriander, red chili powder, garam masala, amchur powder, and salt to make stuffing.",
       "Divide dough into equal portions and roll each into a small circle.",
       "Place a spoonful of stuffing in the center and seal edges properly.",
@@ -1436,7 +1430,7 @@
       "comfort-food"
     ],
     "created_at": "2025-11-12T16:06:33.121Z",
-    "updated_at": "2025-11-12T16:07:31.732Z"
+    "updated_at": "2025-11-12T17:14:47.964Z"
   },
   {
     "id": "f1aa3398-ab0b-4a70-be8d-ac9cfaa034b0",

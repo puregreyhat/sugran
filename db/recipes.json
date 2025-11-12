@@ -1,5 +1,100 @@
 [
   {
+    "id": "67420ab9-77a5-47a3-94a6-d94aca9772a5",
+    "name": "Keema Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://www.licious.in/blog/wp-content/uploads/2020/04/shutterstock_83591092.jpg",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough"
+      },
+      {
+        "name": "minced meat",
+        "amount": 1,
+        "unit": "cup",
+        "note": "chicken, mutton, or lamb"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "for cooking"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "for kneading dough"
+      }
+    ],
+    "steps": [
+      "1) Heat 1 tbsp oil in a pan. Add ginger-garlic paste and onion, and sauté until golden.",
+      "2) Add minced meat, red chili powder, turmeric, garam masala, green chili, and salt. Cook until the meat is browned and dry. Let it cool.",
+      "3) In another bowl, mix wheat flour, salt, and water to knead a soft dough. Rest for 10 minutes.",
+      "4) Divide the dough and cooled keema mixture into equal portions.",
+      "5) Roll one dough ball slightly, place the stuffing in the center, and seal the edges.",
+      "6) Roll gently into a round paratha (about 6 inches).",
+      "7) Cook on a hot tawa using ghee or oil until golden brown on both sides.",
+      "8) Serve hot with raita, curd, or chutney."
+    ],
+    "calories": 380,
+    "servings": 2,
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 15,
+    "tags": [
+      "stuffed-paratha",
+      "non-vegetarian",
+      "north-indian",
+      "protein-rich"
+    ],
+    "created_at": "2025-11-12T16:46:05.626Z"
+  },
+  {
     "id": "62abaf07-bf66-47c1-a640-2925abf959dc",
     "name": "Matar Paratha",
     "cuisine": "North Indian",

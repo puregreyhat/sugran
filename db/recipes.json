@@ -3539,7 +3539,7 @@
         "note": "finely chopped"
       },
       {
-        "name": "green chilies",
+        "name": "green chili",
         "amount": 2,
         "unit": "pcs",
         "note": "chopped"
@@ -3587,7 +3587,7 @@
       "quick-meal"
     ],
     "created_at": "2025-10-29T03:58:09.396Z",
-    "updated_at": "2025-11-12T17:22:00.821Z"
+    "updated_at": "2025-11-12T17:23:03.314Z"
   },
   {
     "id": "c2cfe6ed-a967-4347-94f2-2595428750b2",

@@ -1,5 +1,87 @@
 [
   {
+    "id": "631f7233-77ba-4c0f-87d6-b6d111b771c9",
+    "name": "Gulab Jamun",
+    "cuisine": "Indian",
+    "image_url": "https://sharmanjainsweets.com/cdn/shop/articles/Untitled_design_eb07557c-e535-4bdf-9063-8a1f1cffa58c.png?v=1751535882",
+    "ingredients": [
+      {
+        "name": "khoya",
+        "amount": 1,
+        "unit": "cup",
+        "note": "grated"
+      },
+      {
+        "name": "maida",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "milk",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for kneading"
+      },
+      {
+        "name": "baking soda",
+        "amount": 1,
+        "unit": "pinch",
+        "note": null
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "water",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "cardamom pods",
+        "amount": 3,
+        "unit": "pcs",
+        "note": "lightly crushed"
+      },
+      {
+        "name": "rose water",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "ghee or oil",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for deep frying"
+      }
+    ],
+    "steps": [
+      "1) In a bowl, combine grated khoya, maida, and baking soda. Mix gently.",
+      "2) Add milk gradually and knead into a soft, smooth dough. Avoid over-kneading.",
+      "3) Divide the dough into small round balls without cracks. Set aside.",
+      "4) In a pan, boil sugar and water to make syrup. Add cardamom and rose water, then keep it warm.",
+      "5) Heat ghee in a deep pan on low flame. Fry the balls slowly until golden brown all over.",
+      "6) Transfer immediately to warm sugar syrup and soak for at least 30 minutes.",
+      "7) Serve warm or at room temperature, garnished with pistachios or saffron."
+    ],
+    "calories": 320,
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 30,
+    "tags": [
+      "indian-dessert",
+      "sweet",
+      "festive",
+      "traditional"
+    ],
+    "created_at": "2025-11-12T16:51:17.636Z"
+  },
+  {
     "id": "df491487-18dc-4d99-8e93-de27206305fb",
     "name": "Malabar Parotta",
     "cuisine": "South Indian",

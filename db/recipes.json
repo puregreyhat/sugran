@@ -1,5 +1,55 @@
 [
   {
+    "id": "d60560a7-1042-4ae7-94e3-87b69f368799",
+    "name": "Chocolate Mousse",
+    "cuisine": "Western",
+    "image_url": "https://thescranline.com/wp-content/uploads/2023/11/CHOCOLATE-MOUSSE-CAKE-25-S-07.jpg",
+    "ingredients": [
+      {
+        "name": "dark chocolate",
+        "amount": 150,
+        "unit": "grams",
+        "note": "chopped or chips"
+      },
+      {
+        "name": "whipping cream",
+        "amount": 1,
+        "unit": "cup",
+        "note": "chilled"
+      },
+      {
+        "name": "sugar",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "optional, adjust to taste"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Melt dark chocolate in a double boiler or microwave in short bursts. Let it cool slightly.",
+      "2) In a large chilled bowl, whip the cream with sugar and vanilla extract until soft peaks form.",
+      "3) Gently fold the melted chocolate into the whipped cream using a spatula. Mix until smooth and even.",
+      "4) Spoon the mousse into serving cups and refrigerate for at least 2 hours.",
+      "5) Serve chilled, topped with whipped cream or grated chocolate."
+    ],
+    "calories": 290,
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "tags": [
+      "dessert",
+      "chocolate",
+      "no-bake",
+      "western"
+    ],
+    "created_at": "2025-11-12T16:57:57.277Z"
+  },
+  {
     "id": "047d0e82-389f-4e4f-9dd5-220d973316e1",
     "name": "Chocolate Brownie",
     "cuisine": "Western",

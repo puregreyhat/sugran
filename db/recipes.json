@@ -4096,12 +4096,6 @@
         "note": null
       },
       {
-        "name": "hot water",
-        "amount": 0.75,
-        "unit": "cup",
-        "note": "as needed for kneading"
-      },
-      {
         "name": "salt",
         "amount": 1,
         "unit": "pinch",
@@ -4130,7 +4124,7 @@
       "maharashtrian"
     ],
     "created_at": "2025-10-28T14:57:45.208Z",
-    "updated_at": "2025-10-29T03:35:41.998Z"
+    "updated_at": "2025-11-12T17:13:31.001Z"
   },
   {
     "id": "df46dd99-aeaa-46bd-a8ef-093e37f05cda",

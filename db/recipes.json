@@ -1,5 +1,100 @@
 [
   {
+    "id": "0c475df7-247d-4a79-942f-a7bc866764cd",
+    "name": "Aloo Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://static.vecteezy.com/system/resources/thumbnails/017/117/558/small_2x/aloo-paratha-or-indian-potato-stuffed-flatbread-served-with-butter-and-curd-photo.jpg",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough."
+      },
+      {
+        "name": "potatoes",
+        "amount": 3,
+        "unit": "pcs",
+        "note": "boiled and mashed."
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "finely chopped."
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pc",
+        "note": "finely chopped (optional)."
+      },
+      {
+        "name": "coriander leaves",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "chopped."
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "amchur powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "for tanginess."
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste."
+      },
+      {
+        "name": "ghee or oil",
+        "amount": null,
+        "unit": "as needed",
+        "note": "for roasting."
+      },
+      {
+        "name": "water",
+        "amount": null,
+        "unit": "as needed",
+        "note": "for kneading dough."
+      }
+    ],
+    "steps": [
+      "In a bowl, add wheat flour, a pinch of salt, and water. Knead into a soft dough and rest for 15 minutes.",
+      "In another bowl, mix mashed potatoes, green chilies, coriander, red chili powder, garam masala, amchur powder, and salt to make stuffing.",
+      "Divide dough into equal portions and roll each into a small circle.",
+      "Place a spoonful of stuffing in the center and seal edges properly.",
+      "Gently roll out stuffed dough into a round paratha.",
+      "Heat tawa and roast the paratha on both sides with ghee or oil until golden brown.",
+      "Serve hot with butter, curd, or pickle."
+    ],
+    "calories": 290,
+    "servings": 2,
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 15,
+    "tags": [
+      "breakfast",
+      "north-indian",
+      "stuffed-bread",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "created_at": "2025-11-12T16:06:33.121Z"
+  },
+  {
     "id": "f1aa3398-ab0b-4a70-be8d-ac9cfaa034b0",
     "name": "Paneer Butter Masala",
     "cuisine": "North Indian",

@@ -3561,12 +3561,6 @@
         "amount": 2,
         "unit": "tbsp",
         "note": "for cooking"
-      },
-      {
-        "name": "salt",
-        "amount": 0.5,
-        "unit": "tsp",
-        "note": "if needed (adjust as batter may already contain salt)"
       }
     ],
     "steps": [
@@ -3593,7 +3587,7 @@
       "quick-meal"
     ],
     "created_at": "2025-10-29T03:58:09.396Z",
-    "updated_at": "2025-11-12T17:17:05.321Z"
+    "updated_at": "2025-11-12T17:20:59.502Z"
   },
   {
     "id": "c2cfe6ed-a967-4347-94f2-2595428750b2",

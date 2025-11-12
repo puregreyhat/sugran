@@ -1,5 +1,87 @@
 [
   {
+    "id": "07ac2b33-89e8-4c04-9d97-c0bc119f7e30",
+    "name": "Paneer Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://vegecravings.com/wp-content/uploads/2022/03/Paneer-Paratha-Recipe-Step-By-Step-Instructions-scaled.jpg",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough"
+      },
+      {
+        "name": "paneer",
+        "amount": 1,
+        "unit": "cup",
+        "note": "grated"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "coriander leaves",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "finely chopped"
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for cooking"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "for kneading dough"
+      }
+    ],
+    "steps": [
+      "1) Mix whole wheat flour, a pinch of salt, and water to knead a soft dough. Rest it for 10–15 minutes.",
+      "2) In a bowl, mix grated paneer, green chili, coriander leaves, red chili powder, garam masala, and salt to make the stuffing.",
+      "3) Divide dough and filling into equal portions.",
+      "4) Roll one dough ball slightly, place stuffing in the center, and seal the edges tightly.",
+      "5) Flatten gently and roll into a round paratha (6–7 inches).",
+      "6) Heat a tawa, cook paratha on both sides with oil or ghee until golden brown.",
+      "7) Serve hot with butter, curd, or pickle."
+    ],
+    "calories": 340,
+    "servings": 2,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "tags": [
+      "stuffed-paratha",
+      "paneer",
+      "protein-rich",
+      "north-indian"
+    ],
+    "created_at": "2025-11-12T16:41:58.396Z"
+  },
+  {
     "id": "0c475df7-247d-4a79-942f-a7bc866764cd",
     "name": "Aloo Paratha",
     "cuisine": "North Indian",

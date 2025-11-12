@@ -1,5 +1,79 @@
 [
   {
+    "id": "d2fc198e-934b-4a89-abc6-e6b9b3bcc5a4",
+    "name": "Kheer (Rice Pudding)",
+    "cuisine": "Indian",
+    "image_url": "https://spicecravings.com/wp-content/uploads/2017/12/Kheer-Indian-Rice-Pudding-Featured-500x375.jpg",
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "washed and soaked for 20 minutes"
+      },
+      {
+        "name": "milk",
+        "amount": 1,
+        "unit": "liter",
+        "note": "full-fat"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "cardamom powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "saffron strands",
+        "amount": 8,
+        "unit": "pcs",
+        "note": "soaked in warm milk"
+      },
+      {
+        "name": "chopped almonds",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "chopped cashews",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "raisins",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Bring milk to a boil in a heavy-bottomed pan. Reduce heat and let it simmer.",
+      "2) Add soaked rice and cook on low flame, stirring occasionally, until the rice is soft and the milk thickens (about 30 minutes).",
+      "3) Add sugar, cardamom powder, and saffron milk. Stir well until sugar dissolves completely.",
+      "4) Add chopped nuts and raisins. Simmer for another 5 minutes.",
+      "5) Serve hot or chilled, garnished with more dry fruits or saffron strands."
+    ],
+    "calories": 260,
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "tags": [
+      "indian-dessert",
+      "festive",
+      "sweet",
+      "comfort-food"
+    ],
+    "created_at": "2025-11-12T16:52:48.965Z"
+  },
+  {
     "id": "19cd4c2d-3a52-44b1-9fb0-bd3aeb0f6a67",
     "name": "Rasmalai",
     "cuisine": "Indian",

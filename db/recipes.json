@@ -1,5 +1,44 @@
 [
   {
+    "id": "d93a66df-00a5-4fe6-b5f6-0706021e7aaa",
+    "name": "Banana Ice Cream",
+    "cuisine": "Western",
+    "image_url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/at%2Farchive%2Fc093b6c989030f71c0336df4b473b469e7a6dadb",
+    "ingredients": [
+      {
+        "name": "ripe bananas",
+        "amount": 3,
+        "unit": "pcs",
+        "note": "peeled and sliced"
+      },
+      {
+        "name": "milk or cream",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "optional, for smoother texture"
+      }
+    ],
+    "steps": [
+      "1) Slice the ripe bananas and place them in an airtight container.",
+      "2) Freeze for at least 4 hours or until completely solid.",
+      "3) Add frozen banana slices to a blender or food processor and blend until smooth and creamy.",
+      "4) Add a splash of milk or cream if needed for a creamier texture.",
+      "5) Serve immediately as soft serve, or freeze for 1 hour for a firmer texture."
+    ],
+    "calories": 150,
+    "servings": 2,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": null,
+    "tags": [
+      "dessert",
+      "no-bake",
+      "vegan",
+      "healthy",
+      "2-ingredient"
+    ],
+    "created_at": "2025-11-12T17:00:07.450Z"
+  },
+  {
     "id": "feb48dc1-6dd2-4192-983d-7a0f204dd192",
     "name": "No-Bake Cheesecake",
     "cuisine": "Western",

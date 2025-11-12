@@ -2077,7 +2077,7 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomIQXVzcTH4ohBc7ID4_AkpOvWjGlaCdMpg&s",
     "ingredients": [
       {
-        "name": "basmati rice",
+        "name": "rice",
         "amount": 1,
         "unit": "cup",
         "note": null
@@ -2114,7 +2114,7 @@
       "vegan"
     ],
     "created_at": "2025-10-29T04:18:34.823Z",
-    "updated_at": "2025-10-29T04:18:46.839Z"
+    "updated_at": "2025-11-12T17:19:46.426Z"
   },
   {
     "id": "ccc632c5-e8c2-44aa-a92f-16447436350f",

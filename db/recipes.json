@@ -1,5 +1,94 @@
 [
   {
+    "id": "62abaf07-bf66-47c1-a640-2925abf959dc",
+    "name": "Matar Paratha",
+    "cuisine": "North Indian",
+    "image_url": "https://www.funfoodfrolic.com/wp-content/uploads/2020/11/Matar-Paratha-Thumbnail.jpg",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough"
+      },
+      {
+        "name": "green peas",
+        "amount": 1,
+        "unit": "cup",
+        "note": "fresh or frozen"
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "grated"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "finely chopped"
+      },
+      {
+        "name": "coriander powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for cooking"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "for kneading dough"
+      }
+    ],
+    "steps": [
+      "1) Boil or steam green peas until soft. Drain and mash coarsely.",
+      "2) In a bowl, mix mashed peas with ginger, green chili, coriander powder, garam masala, red chili powder, and salt. Set aside.",
+      "3) In another bowl, mix wheat flour, salt, and water to knead a soft dough. Rest for 10 minutes.",
+      "4) Divide dough and stuffing into equal portions.",
+      "5) Roll out a small circle of dough, place the stuffing in the center, and seal the edges.",
+      "6) Roll gently into a round paratha (6–7 inches).",
+      "7) Cook on a tawa using oil or ghee until golden brown spots appear on both sides.",
+      "8) Serve hot with curd or butter."
+    ],
+    "calories": 320,
+    "servings": 2,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "tags": [
+      "stuffed-paratha",
+      "vegetarian",
+      "winter-special",
+      "north-indian"
+    ],
+    "created_at": "2025-11-12T16:45:17.539Z"
+  },
+  {
     "id": "bb69b55a-3575-4031-a10f-26d3a9117fbe",
     "name": "Pyaaz Paratha",
     "cuisine": "North Indian",

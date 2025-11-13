@@ -1,5 +1,70 @@
 [
   {
+    "id": "f6547598-2446-46ac-b6e0-7650bbfb44c6",
+    "name": "Prawn Curry",
+    "cuisine": "Goan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Goan_prawn_curry.jpg",
+    "ingredients": [
+      {
+        "name": "prawns",
+        "amount": 300,
+        "unit": "grams",
+        "note": null
+      },
+      {
+        "name": "coconut milk",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "medium",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garlic",
+        "amount": 3,
+        "unit": "cloves",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Sauté onions and garlic.",
+      "2) Add prawns and spices.",
+      "3) Pour coconut milk and simmer 5 minutes."
+    ],
+    "calories": 260,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "seafood",
+      "goan",
+      "non-veg"
+    ],
+    "created_at": "2025-11-13T05:27:02.224Z"
+  },
+  {
     "id": "29efe4ea-bd32-4f63-a23e-94b6720c496e",
     "name": "Fish Fry",
     "cuisine": "Coastal Indian",

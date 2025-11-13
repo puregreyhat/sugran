@@ -264,7 +264,7 @@
     "id": "47ded8a8-d932-4d6f-a35a-e020011040d4",
     "name": "Chicken 65",
     "cuisine": "South Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chicken_65_Dish.jpg",
+    "image_url": "https://myfoodstory.com/wp-content/uploads/2021/05/Chicken-65-Spicy-Crispy-4.jpg",
     "ingredients": [
       {
         "name": "boneless chicken",
@@ -329,7 +329,8 @@
       "chicken",
       "non-veg"
     ],
-    "created_at": "2025-11-13T05:28:33.255Z"
+    "created_at": "2025-11-13T05:28:33.255Z",
+    "updated_at": "2025-11-13T05:34:03.856Z"
   },
   {
     "id": "dc8db389-f6ca-4149-b66a-95cf65982bf4",

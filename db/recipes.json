@@ -1,5 +1,86 @@
 [
   {
+    "id": "54dcd089-6f99-46a8-81f8-97d0fb443d56",
+    "name": "Veg Pulao",
+    "cuisine": "Indian",
+    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-pulao.jpg",
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "amount": 1,
+        "unit": "cup",
+        "note": "washed & soaked 15 min"
+      },
+      {
+        "name": "mixed vegetables",
+        "amount": 1,
+        "unit": "cup",
+        "note": "carrot, peas, beans"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "medium",
+        "note": "thinly sliced"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "whole spices",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "bay leaf, cloves, cinnamon"
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "slit"
+      },
+      {
+        "name": "ghee or oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "water",
+        "amount": 1.75,
+        "unit": "cups",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      }
+    ],
+    "steps": [
+      "1) Heat ghee/oil in a pot. Add whole spices and sauté for a few seconds.",
+      "2) Add sliced onions and fry until golden.",
+      "3) Add ginger-garlic paste and green chili; sauté for 1 minute.",
+      "4) Add mixed vegetables and stir-fry for 3 minutes.",
+      "5) Add soaked rice, water, and salt. Mix gently.",
+      "6) Cover and cook on low heat for 12–15 minutes until rice is done.",
+      "7) Fluff and serve hot with raita."
+    ],
+    "calories": 240,
+    "servings": 3,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "tags": [
+      "rice",
+      "vegetarian",
+      "quick"
+    ],
+    "created_at": "2025-11-13T05:18:21.296Z"
+  },
+  {
     "id": "709b4484-f689-4233-832d-b80bc32a2f11",
     "name": "Shahi Tukda",
     "cuisine": "Indian",

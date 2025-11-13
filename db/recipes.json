@@ -845,7 +845,7 @@
     "id": "88ebfcbc-0bc0-4a8d-bea8-4fbb5f217dea",
     "name": "Chicken Korma",
     "cuisine": "Mughlai",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chicken_Korma.jpg",
+    "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Chicken-Korma-tall-FS-73.webp",
     "ingredients": [
       {
         "name": "chicken",
@@ -911,7 +911,8 @@
       "mughlai",
       "non-veg"
     ],
-    "created_at": "2025-11-13T05:26:43.535Z"
+    "created_at": "2025-11-13T05:26:43.535Z",
+    "updated_at": "2025-11-13T05:45:15.187Z"
   },
   {
     "id": "54b831e7-69a0-40f1-b92b-66f7d79e99cf",

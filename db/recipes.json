@@ -971,7 +971,7 @@
     "id": "32c5a54b-bf77-4722-a84d-8c2647871f9b",
     "name": "Vegetarian Lasagna",
     "cuisine": "Italian",
-    "image_url": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/veg-lasagna.jpg",
+    "image_url": "https://wendypolisi.com/wp-content/uploads/2021/02/SQ-veggie-lasagna.jpg",
     "ingredients": [
       {
         "name": "lasagna sheets",
@@ -1038,7 +1038,8 @@
       "vegetarian",
       "italian"
     ],
-    "created_at": "2025-11-13T05:20:23.773Z"
+    "created_at": "2025-11-13T05:20:23.773Z",
+    "updated_at": "2025-11-13T05:25:43.526Z"
   },
   {
     "id": "6eda249a-1436-40aa-8fd5-9694ba29047c",

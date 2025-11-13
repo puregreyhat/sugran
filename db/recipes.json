@@ -1229,7 +1229,7 @@
     "id": "68e7f9dc-7579-463a-b43a-ca5114300d83",
     "name": "Butter Chicken",
     "cuisine": "North Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chicken_makhani.jpg",
+    "image_url": "https://www.halfbakedharvest.com/wp-content/uploads/2020/12/30-Minute-Spicy-Indian-Butter-Chicken-1.jpg",
     "ingredients": [
       {
         "name": "chicken",
@@ -1296,7 +1296,8 @@
       "chicken",
       "north-indian"
     ],
-    "created_at": "2025-11-13T05:26:01.741Z"
+    "created_at": "2025-11-13T05:26:01.741Z",
+    "updated_at": "2025-11-13T05:43:02.467Z"
   },
   {
     "id": "f9a3892a-ad61-4e4e-823d-eea82012d8d7",

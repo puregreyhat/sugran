@@ -1421,7 +1421,7 @@
     "id": "2953208d-520d-45e9-8ecb-9b53b4dd9033",
     "name": "Vegetable Korma",
     "cuisine": "South Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Vegetable_Korma.jpg",
+    "image_url": "https://www.cookclickndevour.com/wp-content/uploads/2016/05/vegetable-korma-recipe-1.jpg",
     "ingredients": [
       {
         "name": "mixed vegetables",
@@ -1480,7 +1480,8 @@
       "south-indian",
       "vegetarian"
     ],
-    "created_at": "2025-11-13T05:25:20.016Z"
+    "created_at": "2025-11-13T05:25:20.016Z",
+    "updated_at": "2025-11-13T05:29:13.309Z"
   },
   {
     "id": "332d8b1a-655e-4fb0-b59e-0f4c99f811f9",

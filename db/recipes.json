@@ -1,5 +1,77 @@
 [
   {
+    "id": "d8db9821-7ddb-436e-9685-4c5d7ac0f957",
+    "name": "Paneer Bhurji",
+    "cuisine": "North Indian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Paneer_Bhurji.jpg",
+    "ingredients": [
+      {
+        "name": "paneer",
+        "amount": 200,
+        "unit": "grams",
+        "note": "crumbled"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "medium",
+        "note": null
+      },
+      {
+        "name": "tomato",
+        "amount": 1,
+        "unit": "medium",
+        "note": null
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "turmeric",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      }
+    ],
+    "steps": [
+      "1) Heat oil, sauté onions.",
+      "2) Add tomatoes, chili, spices.",
+      "3) Add paneer and cook 3 minutes.",
+      "4) Serve with roti or pav."
+    ],
+    "calories": 250,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "paneer",
+      "quick",
+      "vegetarian"
+    ],
+    "created_at": "2025-11-13T05:24:46.326Z"
+  },
+  {
     "id": "dab01901-e894-43fd-84d4-28ab54cdeae6",
     "name": "Dal Tadka",
     "cuisine": "Indian",

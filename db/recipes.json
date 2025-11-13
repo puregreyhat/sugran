@@ -3,7 +3,7 @@
     "id": "709b4484-f689-4233-832d-b80bc32a2f11",
     "name": "Shahi Tukda",
     "cuisine": "Indian",
-    "image_url": "https://www.sharmispassions.com/wp-content/uploads/2024/11/shahi-tukda-500x333.jpg",
+    "image_url": "https://foodsandflavorsbyshilpi.com/2015/01/12/shahi-tukda-recipe-shahi-toast-recipe/",
     "ingredients": [
       {
         "name": "bread slices",
@@ -77,7 +77,8 @@
       "indian",
       "festive"
     ],
-    "created_at": "2025-11-13T05:15:39.692Z"
+    "created_at": "2025-11-13T05:15:39.692Z",
+    "updated_at": "2025-11-13T05:17:15.739Z"
   },
   {
     "id": "d93a66df-00a5-4fe6-b5f6-0706021e7aaa",

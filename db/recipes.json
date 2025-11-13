@@ -1,5 +1,70 @@
 [
   {
+    "id": "e64dbf4e-4e1f-4d75-900c-f3423fc6a01e",
+    "name": "Chicken Shawarma",
+    "cuisine": "Middle Eastern",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Chicken_Shawarma_Wrap.jpg",
+    "ingredients": [
+      {
+        "name": "chicken",
+        "amount": 300,
+        "unit": "grams",
+        "note": "thin strips"
+      },
+      {
+        "name": "yogurt",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "garlic",
+        "amount": 4,
+        "unit": "cloves",
+        "note": "minced"
+      },
+      {
+        "name": "paprika",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "cumin",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Marinate chicken with all ingredients.",
+      "2) Grill or pan-fry 8 minutes.",
+      "3) Serve in pita with veggies."
+    ],
+    "calories": 320,
+    "servings": 2,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "tags": [
+      "shawarma",
+      "middle-eastern",
+      "non-veg"
+    ],
+    "created_at": "2025-11-13T05:27:13.902Z"
+  },
+  {
     "id": "f6547598-2446-46ac-b6e0-7650bbfb44c6",
     "name": "Prawn Curry",
     "cuisine": "Goan",

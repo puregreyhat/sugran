@@ -1402,7 +1402,7 @@
     "id": "2cf94783-2689-4620-aa45-8ad00466ddce",
     "name": "Aloo Matar",
     "cuisine": "North Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Aloo_matar_in_bowl.jpg",
+    "image_url": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Punjabi-Aloo-Matar-Recipe.jpg",
     "ingredients": [
       {
         "name": "potato",
@@ -1468,7 +1468,8 @@
       "north-indian",
       "curry"
     ],
-    "created_at": "2025-11-13T05:24:54.953Z"
+    "created_at": "2025-11-13T05:24:54.953Z",
+    "updated_at": "2025-11-13T05:28:36.139Z"
   },
   {
     "id": "d8db9821-7ddb-436e-9685-4c5d7ac0f957",

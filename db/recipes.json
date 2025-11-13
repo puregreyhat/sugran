@@ -1,5 +1,71 @@
 [
   {
+    "id": "0151859a-9e29-426e-8b62-5d36a28100ee",
+    "name": "Chicken Fried Rice",
+    "cuisine": "Asian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Chicken_fried_rice.jpg",
+    "ingredients": [
+      {
+        "name": "cooked rice",
+        "amount": 2,
+        "unit": "cups",
+        "note": null
+      },
+      {
+        "name": "chicken",
+        "amount": 200,
+        "unit": "grams",
+        "note": "shredded"
+      },
+      {
+        "name": "egg",
+        "amount": 1,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "peas",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Scramble egg, set aside.",
+      "2) Stir-fry chicken and peas.",
+      "3) Add rice, soy sauce, salt.",
+      "4) Mix egg back in and fry 2 minutes."
+    ],
+    "calories": 330,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "fried-rice",
+      "asian",
+      "non-veg"
+    ],
+    "created_at": "2025-11-13T05:27:28.310Z"
+  },
+  {
     "id": "3a425822-5f04-40d7-8d6c-576691b22443",
     "name": "Bhindi Masala",
     "cuisine": "North Indian",

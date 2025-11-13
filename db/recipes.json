@@ -1,5 +1,120 @@
 [
   {
+    "id": "a5f4a401-19a0-428b-8bf8-b98fe2288175",
+    "name": "Kadhi Pakoda",
+    "cuisine": "North Indian",
+    "image_url": " https://thumbs.dreamstime.com/b/kadhi-pakora-served-steam-rice-ceramic-plate-punjabi-cuisine-made-fritters-dipped-curd-base-curry-gram-flour-spices-248247549.jpg",
+    "ingredients": [
+      {
+        "name": "gram flour",
+        "amount": 1,
+        "unit": "cup",
+        "note": "for pakoras and kadhi."
+      },
+      {
+        "name": "curd",
+        "amount": 1,
+        "unit": "cup",
+        "note": "slightly sour."
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pc",
+        "note": "sliced (for pakoras)."
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "chopped."
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "fenugreek seeds",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "curry leaves",
+        "amount": 6,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "ginger",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "grated."
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste."
+      },
+      {
+        "name": "oil",
+        "amount": null,
+        "unit": "as needed",
+        "note": "for frying and tempering."
+      },
+      {
+        "name": "water",
+        "amount": 2,
+        "unit": "cups",
+        "note": "adjust consistency."
+      }
+    ],
+    "steps": [
+      "To make pakoras, mix besan, sliced onions, green chilies, salt, and a little water into a thick batter.",
+      "Heat oil and fry small portions of batter until golden brown. Keep aside.",
+      "For kadhi, whisk curd, besan, turmeric, salt, and water until smooth.",
+      "Heat oil in a pan, add mustard seeds, fenugreek seeds, curry leaves, and grated ginger.",
+      "Pour the curd-besan mixture into the pan and bring to a gentle boil.",
+      "Cook on low flame for 20–25 minutes, stirring occasionally.",
+      "Add red chili powder and coriander powder.",
+      "Add fried pakoras to the kadhi and simmer for 5 minutes.",
+      "Serve hot with steamed rice or roti."
+    ],
+    "calories": 350,
+    "servings": 3,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "tags": [
+      "main-course",
+      "north-indian",
+      "comfort-food",
+      "vegetarian",
+      "tangy"
+    ],
+    "created_at": "2025-11-13T05:23:45.593Z"
+  },
+  {
     "id": "abf960bb-e655-4c33-98c0-a6ed43b3aa40",
     "name": "Shahi Paneer",
     "cuisine": "North Indian",

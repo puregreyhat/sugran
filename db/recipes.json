@@ -1,5 +1,70 @@
 [
   {
+    "id": "332d8b1a-655e-4fb0-b59e-0f4c99f811f9",
+    "name": "Mushroom Masala",
+    "cuisine": "Indian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mushroom_masala.jpg",
+    "ingredients": [
+      {
+        "name": "mushrooms",
+        "amount": 200,
+        "unit": "grams",
+        "note": "sliced"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "medium",
+        "note": "chopped"
+      },
+      {
+        "name": "tomato",
+        "amount": 1,
+        "unit": "medium",
+        "note": "pureed"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      }
+    ],
+    "steps": [
+      "1) Heat oil, sauté onions.",
+      "2) Add ginger-garlic paste and tomato puree.",
+      "3) Add mushrooms and spices.",
+      "4) Cook 5–7 minutes."
+    ],
+    "calories": 180,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "vegetarian",
+      "mushroom"
+    ],
+    "created_at": "2025-11-13T05:25:04.662Z"
+  },
+  {
     "id": "893626a4-d869-4e66-8b87-092a06bdc643",
     "name": "Kachori",
     "cuisine": "North Indian",

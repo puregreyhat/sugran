@@ -336,7 +336,7 @@
     "id": "dc8db389-f6ca-4149-b66a-95cf65982bf4",
     "name": "Mutton Rogan Josh",
     "cuisine": "Kashmiri",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mutton_Rogan_Josh.jpg",
+    "image_url": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/10/1-13.jpg",
     "ingredients": [
       {
         "name": "mutton",
@@ -402,7 +402,8 @@
       "curry",
       "non-veg"
     ],
-    "created_at": "2025-11-13T05:28:22.610Z"
+    "created_at": "2025-11-13T05:28:22.610Z",
+    "updated_at": "2025-11-13T05:34:54.555Z"
   },
   {
     "id": "647a8f64-0d47-47f8-a5f1-e5351b98dffc",

@@ -481,7 +481,7 @@
     "id": "0151859a-9e29-426e-8b62-5d36a28100ee",
     "name": "Chicken Fried Rice",
     "cuisine": "Asian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Chicken_fried_rice.jpg",
+    "image_url": "https://www.sharmispassions.com/wp-content/uploads/2018/03/chicken-fried-rice3.jpg",
     "ingredients": [
       {
         "name": "cooked rice",
@@ -541,7 +541,8 @@
       "asian",
       "non-veg"
     ],
-    "created_at": "2025-11-13T05:27:28.310Z"
+    "created_at": "2025-11-13T05:27:28.310Z",
+    "updated_at": "2025-11-13T05:46:27.419Z"
   },
   {
     "id": "3a425822-5f04-40d7-8d6c-576691b22443",

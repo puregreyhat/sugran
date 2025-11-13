@@ -1486,7 +1486,7 @@
     "id": "332d8b1a-655e-4fb0-b59e-0f4c99f811f9",
     "name": "Mushroom Masala",
     "cuisine": "Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mushroom_masala.jpg",
+    "image_url": "https://shwetainthekitchen.com/wp-content/uploads/2023/03/mutter-mushroom.jpg",
     "ingredients": [
       {
         "name": "mushrooms",
@@ -1545,7 +1545,8 @@
       "vegetarian",
       "mushroom"
     ],
-    "created_at": "2025-11-13T05:25:04.662Z"
+    "created_at": "2025-11-13T05:25:04.662Z",
+    "updated_at": "2025-11-13T05:28:55.218Z"
   },
   {
     "id": "893626a4-d869-4e66-8b87-092a06bdc643",

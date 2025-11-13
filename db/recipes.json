@@ -722,7 +722,7 @@
     "id": "f6547598-2446-46ac-b6e0-7650bbfb44c6",
     "name": "Prawn Curry",
     "cuisine": "Goan",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Goan_prawn_curry.jpg",
+    "image_url": "https://www.sharmispassions.com/wp-content/uploads/2020/12/7385246206_b5161c7a0b_o.jpg",
     "ingredients": [
       {
         "name": "prawns",
@@ -781,7 +781,8 @@
       "goan",
       "non-veg"
     ],
-    "created_at": "2025-11-13T05:27:02.224Z"
+    "created_at": "2025-11-13T05:27:02.224Z",
+    "updated_at": "2025-11-13T05:46:06.226Z"
   },
   {
     "id": "29efe4ea-bd32-4f63-a23e-94b6720c496e",

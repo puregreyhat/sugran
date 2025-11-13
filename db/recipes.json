@@ -1,5 +1,89 @@
 [
   {
+    "id": "208d736b-ea41-4a3e-a21e-a505955246eb",
+    "name": "Paneer Tikka Masala",
+    "cuisine": "North Indian",
+    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/06/paneer-tikka-masala-recipe.jpg",
+    "ingredients": [
+      {
+        "name": "paneer cubes",
+        "amount": 300,
+        "unit": "grams",
+        "note": null
+      },
+      {
+        "name": "yogurt",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "for marinade"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "tomato puree",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "cream",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "optional"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Marinate paneer cubes with yogurt, ginger-garlic paste, chili powder, turmeric, garam masala and salt. Set aside for 30 minutes.",
+      "2) Heat oil in a pan, add tomato puree and cook until oil separates.",
+      "3) Add marinated paneer, cream, adjust salt, cook for 5-7 minutes on low heat.",
+      "4) Garnish with fresh coriander and serve with naan or rice."
+    ],
+    "calories": 380,
+    "servings": 3,
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "tags": [
+      "curry",
+      "vegetarian",
+      "north Indian"
+    ],
+    "created_at": "2025-11-13T05:20:51.153Z"
+  },
+  {
     "id": "32c5a54b-bf77-4722-a84d-8c2647871f9b",
     "name": "Vegetarian Lasagna",
     "cuisine": "Italian",

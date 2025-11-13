@@ -1055,7 +1055,7 @@
     "id": "208d736b-ea41-4a3e-a21e-a505955246eb",
     "name": "Paneer Tikka Masala",
     "cuisine": "North Indian",
-    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/06/paneer-tikka-masala-recipe.jpg",
+    "image_url": "https://cookingfromheart.com/wp-content/uploads/2017/03/Paneer-Tikka-Masala-4.jpg",
     "ingredients": [
       {
         "name": "paneer cubes",
@@ -1133,7 +1133,8 @@
       "vegetarian",
       "north Indian"
     ],
-    "created_at": "2025-11-13T05:20:51.153Z"
+    "created_at": "2025-11-13T05:20:51.153Z",
+    "updated_at": "2025-11-13T05:26:06.179Z"
   },
   {
     "id": "32c5a54b-bf77-4722-a84d-8c2647871f9b",

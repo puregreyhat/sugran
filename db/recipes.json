@@ -1,5 +1,77 @@
 [
   {
+    "id": "88ebfcbc-0bc0-4a8d-bea8-4fbb5f217dea",
+    "name": "Chicken Korma",
+    "cuisine": "Mughlai",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chicken_Korma.jpg",
+    "ingredients": [
+      {
+        "name": "chicken",
+        "amount": 500,
+        "unit": "grams",
+        "note": null
+      },
+      {
+        "name": "curd",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "cashew paste",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "onion",
+        "amount": 2,
+        "unit": "medium",
+        "note": "fried"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "korma masala",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Heat ghee and sauté paste.",
+      "2) Add chicken and spices.",
+      "3) Add curd and cashew paste.",
+      "4) Cook until creamy."
+    ],
+    "calories": 450,
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "tags": [
+      "creamy",
+      "mughlai",
+      "non-veg"
+    ],
+    "created_at": "2025-11-13T05:26:43.535Z"
+  },
+  {
     "id": "54b831e7-69a0-40f1-b92b-66f7d79e99cf",
     "name": "Tandoori Chicken",
     "cuisine": "North Indian",

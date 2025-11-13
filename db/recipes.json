@@ -1,5 +1,127 @@
 [
   {
+    "id": "abf960bb-e655-4c33-98c0-a6ed43b3aa40",
+    "name": "Shahi Paneer",
+    "cuisine": "North Indian",
+    "image_url": "https://t3.ftcdn.net/jpg/09/55/70/10/360_F_955701010_GjQ6TxyvTnBmHY1cCN1tjYv9tH2J5vHj.jpg",
+    "ingredients": [
+      {
+        "name": "paneer",
+        "amount": 200,
+        "unit": "grams",
+        "note": "cut into cubes."
+      },
+      {
+        "name": "ghee",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "for richness."
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pc",
+        "note": "roughly chopped."
+      },
+      {
+        "name": "tomato",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "roughly chopped."
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "cashews",
+        "amount": 12,
+        "unit": "pcs",
+        "note": "soaked for paste."
+      },
+      {
+        "name": "cream",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "adds richness."
+      },
+      {
+        "name": "milk",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "cardamom powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste."
+      },
+      {
+        "name": "kasuri methi",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "crushed."
+      }
+    ],
+    "steps": [
+      "Heat oil and ghee in a pan. Add chopped onions and sauté until golden.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add chopped tomatoes and cook until soft.",
+      "Add soaked cashews and cook for 2 minutes.",
+      "Cool the mixture and grind into a smooth paste.",
+      "Pour the paste back into the pan and add turmeric, red chili powder, garam masala, and salt.",
+      "Add milk and simmer for 5 minutes on low flame.",
+      "Add paneer cubes and cook for 3–4 minutes.",
+      "Add cream and crushed kasuri methi. Mix gently.",
+      "Serve hot with naan, kulcha, or jeera rice."
+    ],
+    "calories": 450,
+    "servings": 3,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "tags": [
+      "main-course",
+      "north-indian",
+      "royal",
+      "vegetarian",
+      "creamy"
+    ],
+    "created_at": "2025-11-13T05:21:25.436Z"
+  },
+  {
     "id": "208d736b-ea41-4a3e-a21e-a505955246eb",
     "name": "Paneer Tikka Masala",
     "cuisine": "North Indian",

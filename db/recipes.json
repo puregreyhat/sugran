@@ -969,7 +969,7 @@
     "id": "54dcd089-6f99-46a8-81f8-97d0fb443d56",
     "name": "Veg Pulao",
     "cuisine": "Indian",
-    "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-pulao.jpg",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFPjIluL4H7E7Qznz6kq0DziLeDpnSg0RqM_0J-3nemYyxHbWSK0EaaAZ70NBiy1kLAFy5ZCxgBfCpETdfnL2oSqhS88KOdNTexX9Me5y1xKbFCU0D0DocySLaCPdiP1eXT7dvEWHXstDA/s1600/vegetable+pulao.JPG",
     "ingredients": [
       {
         "name": "basmati rice",
@@ -1044,7 +1044,8 @@
       "vegetarian",
       "quick"
     ],
-    "created_at": "2025-11-13T05:18:21.296Z"
+    "created_at": "2025-11-13T05:18:21.296Z",
+    "updated_at": "2025-11-13T05:25:16.329Z"
   },
   {
     "id": "709b4484-f689-4233-832d-b80bc32a2f11",

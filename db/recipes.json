@@ -1331,7 +1331,7 @@
     "id": "d8db9821-7ddb-436e-9685-4c5d7ac0f957",
     "name": "Paneer Bhurji",
     "cuisine": "North Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Paneer_Bhurji.jpg",
+    "image_url": "https://www.cookwithmanali.com/wp-content/uploads/2019/06/Paneer-Bhurji-Recipe-Vegetarian-Indian-Cottage-Cheese-Scramble.jpg",
     "ingredients": [
       {
         "name": "paneer",
@@ -1397,7 +1397,8 @@
       "quick",
       "vegetarian"
     ],
-    "created_at": "2025-11-13T05:24:46.326Z"
+    "created_at": "2025-11-13T05:24:46.326Z",
+    "updated_at": "2025-11-13T05:28:18.879Z"
   },
   {
     "id": "dab01901-e894-43fd-84d4-28ab54cdeae6",

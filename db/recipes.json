@@ -1,5 +1,76 @@
 [
   {
+    "id": "647a8f64-0d47-47f8-a5f1-e5351b98dffc",
+    "name": "Egg Curry",
+    "cuisine": "Indian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Egg_Curry_Dish.jpg",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "amount": 4,
+        "unit": "pcs",
+        "note": "boiled"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "medium",
+        "note": null
+      },
+      {
+        "name": "tomato",
+        "amount": 1,
+        "unit": "medium",
+        "note": null
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Make masala with onion, tomato, spices.",
+      "2) Add water and simmer.",
+      "3) Add boiled eggs and cook 5 minutes."
+    ],
+    "calories": 240,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "egg",
+      "curry",
+      "non-veg"
+    ],
+    "created_at": "2025-11-13T05:27:42.353Z"
+  },
+  {
     "id": "0151859a-9e29-426e-8b62-5d36a28100ee",
     "name": "Chicken Fried Rice",
     "cuisine": "Asian",

@@ -1055,7 +1055,7 @@
     "id": "d978fd5c-bae1-4f91-9ed3-029e435e48ad",
     "name": "Home Style Chicken Curry",
     "cuisine": "Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Indian_Chicken_Curry.jpg",
+    "image_url": "https://myfoodstory.com/wp-content/uploads/2020/10/Dhaba-Style-Chicken-Curry-1.jpg",
     "ingredients": [
       {
         "name": "chicken",
@@ -1128,7 +1128,8 @@
       "curry",
       "non-veg"
     ],
-    "created_at": "2025-11-13T05:26:12.494Z"
+    "created_at": "2025-11-13T05:26:12.494Z",
+    "updated_at": "2025-11-13T05:44:24.274Z"
   },
   {
     "id": "20df59d5-c0b2-4c9f-bdba-7b0049f77b23",

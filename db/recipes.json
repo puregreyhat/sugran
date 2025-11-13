@@ -1367,7 +1367,7 @@
     "id": "e35d14b8-8f90-43e6-80b1-017dcddc0aed",
     "name": "Baingan Bharta",
     "cuisine": "North Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Baingan_Bharta.jpg",
+    "image_url": "https://rainbowplantlife.com/wp-content/uploads/2022/05/baingan-bharta-new-5x4-2-1-of-1.jpg",
     "ingredients": [
       {
         "name": "eggplant",
@@ -1420,7 +1420,8 @@
       "north-indian",
       "smoky"
     ],
-    "created_at": "2025-11-13T05:25:29.773Z"
+    "created_at": "2025-11-13T05:25:29.773Z",
+    "updated_at": "2025-11-13T05:42:25.572Z"
   },
   {
     "id": "2953208d-520d-45e9-8ecb-9b53b4dd9033",

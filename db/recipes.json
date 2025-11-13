@@ -1,5 +1,64 @@
 [
   {
+    "id": "e35d14b8-8f90-43e6-80b1-017dcddc0aed",
+    "name": "Baingan Bharta",
+    "cuisine": "North Indian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Baingan_Bharta.jpg",
+    "ingredients": [
+      {
+        "name": "eggplant",
+        "amount": 1,
+        "unit": "large",
+        "note": "roasted"
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "medium",
+        "note": null
+      },
+      {
+        "name": "tomato",
+        "amount": 1,
+        "unit": "medium",
+        "note": null
+      },
+      {
+        "name": "green chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Roast eggplant and mash.",
+      "2) Fry onions, chili, tomatoes.",
+      "3) Add mashed eggplant and cook 5 minutes."
+    ],
+    "calories": 160,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "tags": [
+      "vegetarian",
+      "north-indian",
+      "smoky"
+    ],
+    "created_at": "2025-11-13T05:25:29.773Z"
+  },
+  {
     "id": "2953208d-520d-45e9-8ecb-9b53b4dd9033",
     "name": "Vegetable Korma",
     "cuisine": "South Indian",

@@ -1,5 +1,70 @@
 [
   {
+    "id": "2953208d-520d-45e9-8ecb-9b53b4dd9033",
+    "name": "Vegetable Korma",
+    "cuisine": "South Indian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Vegetable_Korma.jpg",
+    "ingredients": [
+      {
+        "name": "mixed vegetables",
+        "amount": 2,
+        "unit": "cups",
+        "note": "carrot, beans, peas"
+      },
+      {
+        "name": "coconut milk",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "medium",
+        "note": null
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "korma masala",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      }
+    ],
+    "steps": [
+      "1) Heat oil, sauté onion and ginger-garlic.",
+      "2) Add vegetables, spices and cook for 3 minutes.",
+      "3) Add coconut milk and simmer 10 minutes."
+    ],
+    "calories": 260,
+    "servings": 3,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "tags": [
+      "coconut",
+      "south-indian",
+      "vegetarian"
+    ],
+    "created_at": "2025-11-13T05:25:20.016Z"
+  },
+  {
     "id": "332d8b1a-655e-4fb0-b59e-0f4c99f811f9",
     "name": "Mushroom Masala",
     "cuisine": "Indian",

@@ -1,5 +1,114 @@
 [
   {
+    "id": "3a425822-5f04-40d7-8d6c-576691b22443",
+    "name": "Bhindi Masala",
+    "cuisine": "North Indian",
+    "image_url": "https://img.freepik.com/premium-photo/bharwa-masala-bhindi-stuffed-okra-is-indian-main-course-vegetable-recipe-made-using-ladies-fingers-ochro-spices_466689-16075.jpg?semt=ais_hybrid&w=740&q=80",
+    "ingredients": [
+      {
+        "name": "bhindi",
+        "amount": 300,
+        "unit": "grams",
+        "note": "washed and chopped."
+      },
+      {
+        "name": "onion",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "sliced."
+      },
+      {
+        "name": "tomato",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "chopped."
+      },
+      {
+        "name": "green chilies",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "slit."
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "amchur powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "for tanginess."
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste."
+      },
+      {
+        "name": "oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "for frying."
+      }
+    ],
+    "steps": [
+      "Heat 1 tbsp oil in a pan and sauté chopped bhindi on medium flame until non-sticky and partially cooked. Keep aside.",
+      "Heat 2 tbsp oil in another pan and add cumin seeds.",
+      "Add sliced onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomatoes, turmeric, red chili powder, coriander powder, and salt. Cook until tomatoes turn soft.",
+      "Add sautéed bhindi and mix well.",
+      "Cook on low flame for 8–10 minutes, stirring occasionally.",
+      "Add garam masala and amchur powder, mix gently.",
+      "Serve hot with roti or paratha."
+    ],
+    "calories": 180,
+    "servings": 3,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "tags": [
+      "main-course",
+      "north-indian",
+      "dry-veg",
+      "vegetarian",
+      "simple"
+    ],
+    "created_at": "2025-11-13T05:27:21.804Z"
+  },
+  {
     "id": "e64dbf4e-4e1f-4d75-900c-f3423fc6a01e",
     "name": "Chicken Shawarma",
     "cuisine": "Middle Eastern",

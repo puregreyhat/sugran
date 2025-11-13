@@ -1,5 +1,119 @@
 [
   {
+    "id": "6eda249a-1436-40aa-8fd5-9694ba29047c",
+    "name": "Dal Makhani",
+    "cuisine": "North Indian",
+    "image_url": "https://www.cookwithmanali.com/wp-content/uploads/2015/01/Creamy-Restaurant-Style-Dal-Makhani.jpg",
+    "ingredients": [
+      {
+        "name": "whole black urad dal",
+        "amount": 1,
+        "unit": "cup",
+        "note": "soaked overnight."
+      },
+      {
+        "name": "rajma",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "soaked overnight."
+      },
+      {
+        "name": "butter",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for richness."
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "onion",
+        "amount": 1,
+        "unit": "pc",
+        "note": "finely chopped."
+      },
+      {
+        "name": "tomato",
+        "amount": 2,
+        "unit": "pcs",
+        "note": "pureed."
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "kasuri methi",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "crushed."
+      },
+      {
+        "name": "fresh cream",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "for garnish and creaminess."
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste."
+      },
+      {
+        "name": "water",
+        "amount": 3,
+        "unit": "cups",
+        "note": "for cooking lentils."
+      }
+    ],
+    "steps": [
+      "Pressure cook soaked urad dal and rajma with salt for 6–7 whistles until soft.",
+      "Heat oil and butter in a pan. Add onions and sauté until golden.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree, red chili powder, turmeric, and garam masala. Cook until oil separates.",
+      "Add boiled dal-rajma mixture and mix well.",
+      "Simmer on low flame for 20–30 minutes, stirring occasionally for creaminess.",
+      "Add cream and crushed kasuri methi. Simmer for 5 more minutes.",
+      "Serve hot with naan, roti, or jeera rice."
+    ],
+    "calories": 430,
+    "servings": 3,
+    "prep_time_minutes": 480,
+    "cook_time_minutes": 45,
+    "tags": [
+      "main-course",
+      "north-indian",
+      "creamy",
+      "vegetarian",
+      "restaurant-style"
+    ],
+    "created_at": "2025-11-13T05:20:00.643Z"
+  },
+  {
     "id": "54dcd089-6f99-46a8-81f8-97d0fb443d56",
     "name": "Veg Pulao",
     "cuisine": "Indian",

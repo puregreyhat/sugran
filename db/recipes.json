@@ -5555,12 +5555,6 @@
         "amount": 2,
         "unit": "tbsp",
         "note": null
-      },
-      {
-        "name": "homemade pav bhaji masala - whole spices",
-        "amount": null,
-        "unit": null,
-        "note": "1 tbsp coriander seeds, 1 tsp cumin seeds, 1/2 tsp fennel seeds, 4-5 black peppercorns, 3-4 dried red chilies, 1/2 inch cinnamon, 2 cloves, 1 bay leaf, 1/2 tsp dry mango powder (amchur) optional"
       }
     ],
     "steps": [
@@ -5590,6 +5584,6 @@
       "homemade"
     ],
     "created_at": "2025-10-28T04:16:25.883Z",
-    "updated_at": "2025-10-28T04:16:57.529Z"
+    "updated_at": "2025-11-13T03:42:43.312Z"
   }
 ]

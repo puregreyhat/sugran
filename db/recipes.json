@@ -1,5 +1,115 @@
 [
   {
+    "id": "893626a4-d869-4e66-8b87-092a06bdc643",
+    "name": "Kachori",
+    "cuisine": "North Indian",
+    "image_url": " https://img.freepik.com/premium-photo/kachori-is-spicy-snack-from-india-also-spelled-as-kachauri-kachodi-served-with-tomato-ketchup-selective-focus_466689-10509.jpg?semt=ais_items_boosted&w=740",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "amount": 2,
+        "unit": "cups",
+        "note": "for dough."
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "to mix in dough."
+      },
+      {
+        "name": "water",
+        "amount": null,
+        "unit": "as needed",
+        "note": "for kneading dough."
+      },
+      {
+        "name": "moong dal",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "soaked 2 hours."
+      },
+      {
+        "name": "fennel seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "asafoetida",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "amchur",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste."
+      },
+      {
+        "name": "oil",
+        "amount": null,
+        "unit": "for deep frying",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Mix maida, salt, and 2 tbsp oil/ghee. Add water gradually and knead into a soft dough. Rest for 20 minutes.",
+      "Drain soaked moong dal and coarsely grind it.",
+      "Heat 1 tbsp oil in a pan. Add cumin, fennel seeds, and hing.",
+      "Add ground dal and sauté for 3–4 minutes.",
+      "Add red chili, coriander powder, garam masala, amchur, and salt. Cook until fragrant and dry. Cool the stuffing.",
+      "Divide dough into small balls and flatten slightly.",
+      "Place stuffing in the center, seal edges, and shape into a ball.",
+      "Gently roll or press into a small disc.",
+      "Deep fry on low-medium flame until golden and crisp.",
+      "Serve hot with tamarind chutney or aloo sabzi."
+    ],
+    "calories": 320,
+    "servings": 4,
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "tags": [
+      "snack",
+      "north-indian",
+      "fried",
+      "street-food",
+      "vegetarian"
+    ],
+    "created_at": "2025-11-13T05:24:55.604Z"
+  },
+  {
     "id": "2cf94783-2689-4620-aa45-8ad00466ddce",
     "name": "Aloo Matar",
     "cuisine": "North Indian",

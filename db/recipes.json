@@ -1,5 +1,85 @@
 [
   {
+    "id": "a3e5d0ef-e841-4bca-85b9-64499d44466f",
+    "name": "Shahi Tukda",
+    "cuisine": "Indian",
+    "image_url": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/10/shahi-tukda.jpg",
+    "ingredients": [
+      {
+        "name": "bread slices",
+        "amount": 4,
+        "unit": "pcs",
+        "note": "white bread"
+      },
+      {
+        "name": "ghee",
+        "amount": 4,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "milk",
+        "amount": 1,
+        "unit": "cup",
+        "note": "full-fat"
+      },
+      {
+        "name": "sugar",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "for rabri"
+      },
+      {
+        "name": "cardamom powder",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "sugar",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "for sugar syrup"
+      },
+      {
+        "name": "water",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": "for sugar syrup"
+      },
+      {
+        "name": "saffron strands",
+        "amount": 5,
+        "unit": "pcs",
+        "note": "optional"
+      },
+      {
+        "name": "chopped nuts",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "almonds/pistachios"
+      }
+    ],
+    "steps": [
+      "1) Heat milk in a pan, simmer until slightly thick. Add 3 tbsp sugar and cardamom. Stir and cook for 5–7 minutes to make rabri.",
+      "2) In another pan, mix 1/2 cup sugar and 1/4 cup water. Boil for 2–3 minutes until a thin syrup forms.",
+      "3) Cut bread slices into triangles and fry them in ghee until golden and crisp.",
+      "4) Dip fried bread briefly in sugar syrup.",
+      "5) Place the soaked bread on a plate, pour warm rabri on top.",
+      "6) Garnish with saffron and chopped nuts. Serve warm or chilled."
+    ],
+    "calories": 310,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "tags": [
+      "dessert",
+      "indian",
+      "festive"
+    ],
+    "created_at": "2025-11-13T05:13:12.256Z"
+  },
+  {
     "id": "d93a66df-00a5-4fe6-b5f6-0706021e7aaa",
     "name": "Banana Ice Cream",
     "cuisine": "Western",

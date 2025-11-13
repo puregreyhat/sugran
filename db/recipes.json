@@ -1,5 +1,71 @@
 [
   {
+    "id": "dab01901-e894-43fd-84d4-28ab54cdeae6",
+    "name": "Dal Tadka",
+    "cuisine": "Indian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Dal_Tadka_Mild.jpg",
+    "ingredients": [
+      {
+        "name": "toor dal",
+        "amount": 1,
+        "unit": "cup",
+        "note": "washed"
+      },
+      {
+        "name": "turmeric",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "ghee",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "garlic",
+        "amount": 4,
+        "unit": "cloves",
+        "note": "crushed"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "red chili",
+        "amount": 1,
+        "unit": "pcs",
+        "note": "dry"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      }
+    ],
+    "steps": [
+      "1) Pressure cook dal with turmeric.",
+      "2) Heat ghee, add cumin, garlic, red chili.",
+      "3) Pour tadka over dal.",
+      "4) Simmer 2 minutes and serve hot."
+    ],
+    "calories": 190,
+    "servings": 3,
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 15,
+    "tags": [
+      "dal",
+      "protein",
+      "vegetarian"
+    ],
+    "created_at": "2025-11-13T05:24:36.488Z"
+  },
+  {
     "id": "46028998-4f16-4d5f-94d2-032f15ed0720",
     "name": "Kadai Paneer",
     "cuisine": "North Indian",

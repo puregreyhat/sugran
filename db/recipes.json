@@ -1,5 +1,58 @@
 [
   {
+    "id": "6876706c-0508-42b3-b658-70ad5f0df6ce",
+    "name": "Shrimp Fry",
+    "cuisine": "Coastal",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fried_Shrimp.jpg",
+    "ingredients": [
+      {
+        "name": "shrimp",
+        "amount": 300,
+        "unit": "grams",
+        "note": null
+      },
+      {
+        "name": "garlic",
+        "amount": 4,
+        "unit": "cloves",
+        "note": null
+      },
+      {
+        "name": "pepper",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Marinate shrimp with garlic, pepper, salt.",
+      "2) Pan fry until golden.",
+      "3) Serve hot."
+    ],
+    "calories": 210,
+    "servings": 2,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 8,
+    "tags": [
+      "shrimp",
+      "coastal",
+      "non-veg"
+    ],
+    "created_at": "2025-11-13T05:28:50.977Z"
+  },
+  {
     "id": "6c49394a-4f2e-4d60-9132-024ab9b25643",
     "name": "Malai Kofta",
     "cuisine": "North Indian",

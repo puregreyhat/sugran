@@ -1302,7 +1302,7 @@
     "id": "f9a3892a-ad61-4e4e-823d-eea82012d8d7",
     "name": "Aloo Gobi",
     "cuisine": "North Indian",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Aloo_gobi.jpg",
+    "image_url": "https://maunikagowardhan.co.uk/wp-content/uploads/2017/05/Punjabi-Aloo-Gobi-1024x683.jpg",
     "ingredients": [
       {
         "name": "potatoes",
@@ -1361,7 +1361,8 @@
       "dry-sabzi",
       "north-indian"
     ],
-    "created_at": "2025-11-13T05:25:40.075Z"
+    "created_at": "2025-11-13T05:25:40.075Z",
+    "updated_at": "2025-11-13T05:42:43.415Z"
   },
   {
     "id": "e35d14b8-8f90-43e6-80b1-017dcddc0aed",

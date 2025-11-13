@@ -1,5 +1,78 @@
 [
   {
+    "id": "32c5a54b-bf77-4722-a84d-8c2647871f9b",
+    "name": "Vegetarian Lasagna",
+    "cuisine": "Italian",
+    "image_url": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/veg-lasagna.jpg",
+    "ingredients": [
+      {
+        "name": "lasagna sheets",
+        "amount": 9,
+        "unit": "pcs",
+        "note": "pre-boiled"
+      },
+      {
+        "name": "mixed vegetables",
+        "amount": 2,
+        "unit": "cups",
+        "note": "carrot, zucchini, bell pepper, chopped"
+      },
+      {
+        "name": "spinach",
+        "amount": 1,
+        "unit": "cup",
+        "note": "fresh, chopped"
+      },
+      {
+        "name": "ricotta cheese",
+        "amount": 1,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "mozzarella cheese",
+        "amount": 1,
+        "unit": "cup",
+        "note": "shredded"
+      },
+      {
+        "name": "marinara sauce",
+        "amount": 2,
+        "unit": "cups",
+        "note": "tomato-basil sauce"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "to taste"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Pre-heat oven to 180 °C.",
+      "2) Lightly sauté mixed vegetables and spinach in 1 tbsp olive oil until just tender.",
+      "3) In a baking dish, layer marinara sauce, lasagna sheets, vegetable mixture, ricotta, mozzarella — repeat to make 3 layers.",
+      "4) Top with remaining mozzarella and bake for 25-30 minutes until golden and bubbling.",
+      "5) Let rest 5 minutes, slice and serve hot."
+    ],
+    "calories": 450,
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "tags": [
+      "main course",
+      "vegetarian",
+      "italian"
+    ],
+    "created_at": "2025-11-13T05:20:23.773Z"
+  },
+  {
     "id": "6eda249a-1436-40aa-8fd5-9694ba29047c",
     "name": "Dal Makhani",
     "cuisine": "North Indian",

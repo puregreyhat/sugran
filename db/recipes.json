@@ -1,5 +1,76 @@
 [
   {
+    "id": "47ded8a8-d932-4d6f-a35a-e020011040d4",
+    "name": "Chicken 65",
+    "cuisine": "South Indian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chicken_65_Dish.jpg",
+    "ingredients": [
+      {
+        "name": "boneless chicken",
+        "amount": 300,
+        "unit": "grams",
+        "note": null
+      },
+      {
+        "name": "curd",
+        "amount": 0.25,
+        "unit": "cup",
+        "note": null
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "turmeric",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "corn flour",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": null
+      }
+    ],
+    "steps": [
+      "1) Marinate chicken with all ingredients.",
+      "2) Deep fry until crispy.",
+      "3) Toss with curry leaves and serve."
+    ],
+    "calories": 320,
+    "servings": 3,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "tags": [
+      "starter",
+      "chicken",
+      "non-veg"
+    ],
+    "created_at": "2025-11-13T05:28:33.255Z"
+  },
+  {
     "id": "dc8db389-f6ca-4149-b66a-95cf65982bf4",
     "name": "Mutton Rogan Josh",
     "cuisine": "Kashmiri",

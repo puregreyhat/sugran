@@ -656,7 +656,7 @@
     "id": "e64dbf4e-4e1f-4d75-900c-f3423fc6a01e",
     "name": "Chicken Shawarma",
     "cuisine": "Middle Eastern",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Chicken_Shawarma_Wrap.jpg",
+    "image_url": "https://ministryofcurry.com/wp-content/uploads/2021/05/chicken-shawarma-6.jpg",
     "ingredients": [
       {
         "name": "chicken",
@@ -715,7 +715,8 @@
       "middle-eastern",
       "non-veg"
     ],
-    "created_at": "2025-11-13T05:27:13.902Z"
+    "created_at": "2025-11-13T05:27:13.902Z",
+    "updated_at": "2025-11-13T05:45:48.198Z"
   },
   {
     "id": "f6547598-2446-46ac-b6e0-7650bbfb44c6",

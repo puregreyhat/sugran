@@ -1,5 +1,75 @@
 [
   {
+    "id": "13dc3ee3-5f20-477d-a328-27c70c6bf7c7",
+    "name": "Tandoori Chicken",
+    "cuisine": "North Indian",
+    "image_url": "https://img.taste.com.au/WSfw6PmD/taste/2010/01/easy-tandoori-chicken-recipe-200355-2.jpg",
+    "ingredients": [
+      {
+        "name": "chicken legs",
+        "amount": 4,
+        "unit": "pcs",
+        "note": "skin removed, cleaned"
+      },
+      {
+        "name": "yogurt",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "thick curd / hung curd preferred"
+      },
+      {
+        "name": "red chili powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "adjust for spice level"
+      },
+      {
+        "name": "turmeric",
+        "amount": 0.25,
+        "unit": "tsp",
+        "note": null
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": null
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "freshly squeezed"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "or to taste"
+      }
+    ],
+    "steps": [
+      "1) **Prepare the chicken:** Clean the chicken legs, pat them dry, and make 2–3 deep slits on each leg so the marinade can enter properly.",
+      "2) **First marinade:** Mix lemon juice, salt, and half of the red chili powder. Rub this mixture into the chicken and rest for 15 minutes. This helps tenderize the meat.",
+      "3) **Second marinade:** In a bowl, mix yogurt, remaining chili powder, turmeric, ginger–garlic paste, and a pinch more salt. Whisk until smooth.",
+      "4) **Marinate the chicken:** Apply the second marinade generously all over the chicken, making sure it goes into the slits. Cover and refrigerate for at least 1 hour (4–8 hours gives best flavor).",
+      "5) **Preheat cooking method:**\n   - For oven: Preheat to 220°C (430°F).\n   - For grill/airfryer: Preheat to high heat.\n   - For tawa/pan: Heat well and grease lightly with oil.",
+      "6) **Cook the chicken:** Place marinated legs on a tray or grill rack. Bake or grill for 20–25 minutes, flipping halfway. Brush lightly with oil or butter for color and moisture.",
+      "7) **Optional charring:** For a smoky tandoori finish, broil on high or place directly over flame for 1–2 minutes.",
+      "8) **Serve:** Let the chicken rest for 5 minutes, then serve hot with onion rings, lemon wedges, and green chutney."
+    ],
+    "calories": 310,
+    "servings": 2,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "tags": [
+      "grilled",
+      "chicken",
+      "non-veg"
+    ],
+    "created_at": "2025-11-20T03:30:45.209Z"
+  },
+  {
     "id": "6876706c-0508-42b3-b658-70ad5f0df6ce",
     "name": "Shrimp Fry",
     "cuisine": "Coastal",

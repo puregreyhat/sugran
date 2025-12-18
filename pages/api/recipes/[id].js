@@ -29,7 +29,7 @@ export default async function handler(req, res) {
   let body = req.body || {};
   if (body && body.recipe) body = body.recipe;
     // allowed fields to update
-    const allowed = ['name','cuisine','image_url','ingredients','steps','calories','servings','prep_time_minutes','cook_time_minutes','tags'];
+    const allowed = ['name','cuisine','image_url','ingredients','steps','calories','servings','prep_time_minutes','cook_time_minutes','tags','is_veg'];
     const updated = { ...r };
     // normalize ingredients if present
     const normalizeIng = (ing) => {
@@ -56,6 +56,17 @@ export default async function handler(req, res) {
         }
       }
     }
+
+    // normalize is_veg if present (coerce strings like 'veg'/'non-veg' to boolean)
+    if (typeof updated.is_veg !== 'undefined') {
+      if (typeof updated.is_veg === 'string') {
+        const v = updated.is_veg.toLowerCase();
+        updated.is_veg = (v === 'veg' || v === 'vegetarian' || v === 'true');
+      } else {
+        updated.is_veg = Boolean(updated.is_veg);
+      }
+    }
+
     updated.updated_at = new Date().toISOString();
     try {
       const idx = all.findIndex(x => x.id === id);

@@ -52,12 +52,13 @@ export default function EditRecipe() {
       const body = {
         name: recipe.name,
         cuisine: recipe.cuisine,
-          image_url: recipe.image_url || null,
+        image_url: recipe.image_url || null,
         servings: recipe.servings,
+        is_veg: typeof recipe.is_veg !== 'undefined' ? recipe.is_veg : undefined,
         ingredients: recipe.ingredients,
         steps: recipe.steps,
         tags: recipe.tags || [],
-      };
+      }; 
       const res = await fetch(`/api/recipes/${encodeURIComponent(id)}`, { method: 'PUT', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
       if (!res.ok) {
         const j = await res.json();
@@ -85,7 +86,7 @@ export default function EditRecipe() {
             <label className="block text-sm text-gray-600">Name</label>
             <input className="w-full p-2 border rounded" value={recipe.name || ''} onChange={e => setRecipe(r => ({ ...r, name: e.target.value }))} required />
           </div>
-          <div className="grid grid-cols-2 gap-3 mb-3">
+          <div className="grid grid-cols-3 gap-3 mb-3">
             <div>
               <label className="block text-sm text-gray-600">Cuisine</label>
               <input className="w-full p-2 border rounded" value={recipe.cuisine || ''} onChange={e => setRecipe(r => ({ ...r, cuisine: e.target.value }))} />
@@ -94,7 +95,15 @@ export default function EditRecipe() {
               <label className="block text-sm text-gray-600">Servings</label>
               <input className="w-full p-2 border rounded" value={recipe.servings || ''} onChange={e => setRecipe(r => ({ ...r, servings: e.target.value }))} />
             </div>
-          </div>
+            <div>
+              <label className="block text-sm text-gray-600">Diet</label>
+              <select className="w-full p-2 border rounded" value={recipe.is_veg === true ? 'veg' : recipe.is_veg === false ? 'non-veg' : (recipe.tags && (recipe.tags.includes('non-veg') ? 'non-veg' : (recipe.tags.includes('veg') || recipe.tags.includes('vegetarian') ? 'veg' : '')))} onChange={e => setRecipe(r => ({ ...r, is_veg: e.target.value === 'veg' ? true : e.target.value === 'non-veg' ? false : undefined }))}>
+                <option value="">Not specified</option>
+                <option value="veg">Vegetarian</option>
+                <option value="non-veg">Non-Vegetarian</option>
+              </select>
+            </div>
+          </div> 
 
           <div className="mb-3">
             <label className="block text-sm text-gray-600">Ingredients</label>

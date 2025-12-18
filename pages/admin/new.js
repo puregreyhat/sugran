@@ -18,6 +18,7 @@ export default function NewRecipe() {
   const [cuisine, setCuisine] = useState('');
   const [imageUrl, setImageUrl] = useState('');
   const [servings, setServings] = useState('');
+  const [isVeg, setIsVeg] = useState('');
   const [ingredients, setIngredients] = useState([{ name: '', amount: '', unit: '' }]);
   const [steps, setSteps] = useState('');
   const [jsonMode, setJsonMode] = useState(false);
@@ -69,9 +70,10 @@ export default function NewRecipe() {
           cuisine,
           image_url: imageUrl || null,
           servings: servings ? Number(servings) : null,
+          is_veg: isVeg === 'veg' ? true : isVeg === 'non-veg' ? false : undefined,
           ingredients: ingredients.filter(i => i.name).map(i => ({ name: i.name, amount: i.amount || null, unit: i.unit || null })),
           steps: stepsArr,
-        };
+        }; 
       }
       const res = await fetch('/api/recipes', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
       if (res.ok) {
@@ -110,7 +112,7 @@ export default function NewRecipe() {
                 <label className="block text-sm text-gray-600">Name</label>
                 <input className="w-full p-2 border rounded" value={name} onChange={e => setName(e.target.value)} required />
               </div>
-              <div className="grid grid-cols-2 gap-3 mb-3">
+              <div className="grid grid-cols-3 gap-3 mb-3">
                 <div>
                   <label className="block text-sm text-gray-600">Cuisine</label>
                   <input className="w-full p-2 border rounded" value={cuisine} onChange={e => setCuisine(e.target.value)} />
@@ -118,6 +120,14 @@ export default function NewRecipe() {
                 <div>
                   <label className="block text-sm text-gray-600">Servings</label>
                   <input className="w-full p-2 border rounded" value={servings} onChange={e => setServings(e.target.value)} />
+                </div>
+                <div>
+                  <label className="block text-sm text-gray-600">Diet</label>
+                  <select className="w-full p-2 border rounded" value={isVeg} onChange={e => setIsVeg(e.target.value)}>
+                    <option value="">Not specified</option>
+                    <option value="veg">Vegetarian</option>
+                    <option value="non-veg">Non-Vegetarian</option>
+                  </select>
                 </div>
               </div>
 

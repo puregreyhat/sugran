@@ -48,11 +48,21 @@ export default async function handler(req, res) {
       const all = await readDb();
       const ingredients = Array.isArray(body.ingredients) ? body.ingredients.map(normalizeIng).filter(Boolean) : [];
 
+      const normalizeIsVeg = (val) => {
+        if (typeof val === 'undefined' || val === null) return null;
+        if (typeof val === 'string') {
+          const v = val.toLowerCase();
+          return (v === 'veg' || v === 'vegetarian' || v === 'true');
+        }
+        return Boolean(val);
+      };
+
       const newRecipe = {
         id: uuidv4(),
         name: body.name,
         cuisine: body.cuisine || 'unknown',
         image_url: body.image_url || null,
+        is_veg: normalizeIsVeg(body.is_veg),
         ingredients,
         steps: body.steps || [],
         calories: body.calories || null,

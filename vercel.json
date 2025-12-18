@@ -1,5 +1,3 @@
 {
-  "framework": {
-    "name": "nextjs"
-  }
+  "framework": "nextjs"
 }
